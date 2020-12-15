@@ -1,0 +1,1036 @@
+﻿Log file open, 12/15/20 11:06:01
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Escape
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.972655
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.15-10.06.02:557][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.15-10.06.02:557][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Engine.ini]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Engine.ini]
+[2020.12.15-10.06.02:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Engine.ini]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Engine.ini]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.15-10.06.02:558][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.15-10.06.02:559][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.15-10.06.02:559][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.15-10.06.02:559][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.15-10.06.02:559][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Engine.ini]
+[2020.12.15-10.06.02:559][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Engine.ini]
+[2020.12.15-10.06.02:573][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.15-10.06.02:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.15-10.06.02:574][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.15-10.06.02:575][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.15-10.06.02:575][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.15-10.06.02:576][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.15-10.06.02:576][  0]LogHAL: Display: Platform has ~ 8 GB [8467877888 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.15-10.06.02:577][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.15-10.06.02:577][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.15-10.06.02:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Scalability.ini]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.15-10.06.02:578][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.15-10.06.02:579][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.15-10.06.02:579][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.15-10.06.02:579][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.15-10.06.02:579][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Config/Windows/Engine.ini]
+[2020.12.15-10.06.02:581][  0]LogInit: Computer: ANELE-PC
+[2020.12.15-10.06.02:581][  0]LogInit: User: elena
+[2020.12.15-10.06.02:581][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.15-10.06.02:581][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.15-10.06.02:581][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.12.15-10.06.02:581][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.15-10.06.02:581][  0]LogMemory: Process Physical Memory: 133.50 MB used, 133.50 MB peak
+[2020.12.15-10.06.02:581][  0]LogMemory: Process Virtual Memory: 117.65 MB used, 117.65 MB peak
+[2020.12.15-10.06.02:581][  0]LogMemory: Physical Memory: 4859.17 MB used,  3216.43 MB free, 8075.60 MB total
+[2020.12.15-10.06.02:581][  0]LogMemory: Virtual Memory: 134213624.00 MB used,  4107.86 MB free, 134217728.00 MB total
+[2020.12.15-10.06.02:588][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.15-10.06.02:781][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.15-10.06.02:784][  0]LogInit: Using OS detected language (en-GB).
+[2020.12.15-10.06.02:784][  0]LogInit: Using OS detected locale (en-DE).
+[2020.12.15-10.06.02:809][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.12.15-10.06.03:172][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.15-10.06.03:186][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.15-10.06.03:228][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.15-10.06.03:228][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.15-10.06.03:594][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.15-10.06.03:594][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.15-10.06.03:594][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.15-10.06.03:594][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.15-10.06.03:819][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.12.15-10.06.03:819][  0]LogD3D11RHI:       4018/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.15-10.06.03:853][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.12.15-10.06.03:853][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.15-10.06.03:870][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.15-10.06.03:870][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.15-10.06.03:870][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.15-10.06.03:876][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.15-10.06.03:877][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2020.12.15-10.06.03:877][  0]LogWindows: EnumDisplayDevices:
+[2020.12.15-10.06.03:877][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.12.15-10.06.03:877][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.15-10.06.03:878][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.12.15-10.06.03:878][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2020.12.15-10.06.03:879][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.12.15-10.06.03:879][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.12.15-10.06.03:879][  0]LogD3D11RHI:   Driver Version: 457.30 (internal:27.21.14.5730, unified:457.30)
+[2020.12.15-10.06.03:879][  0]LogD3D11RHI:      Driver Date: 11-6-2020
+[2020.12.15-10.06.03:879][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.12.15-10.06.03:948][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.15-10.06.03:949][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.15-10.06.03:949][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.12.15-10.06.04:005][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.15-10.06.04:017][  0]LogRHI: GeForceNow SDK initialized: 1
+[2020.12.15-10.06.04:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.15-10.06.04:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.15-10.06.04:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.15-10.06.04:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.15-10.06.04:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.15-10.06.04:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.15-10.06.04:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.15-10.06.04:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.15-10.06.04:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.15-10.06.04:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.15-10.06.04:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.15-10.06.04:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.15-10.06.04:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.15-10.06.04:745][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.15-10.06.04:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.15-10.06.04:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.15-10.06.04:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.15-10.06.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.15-10.06.04:792][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.15-10.06.04:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.15-10.06.04:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.15-10.06.04:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.15-10.06.04:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.15-10.06.04:833][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.15-10.06.04:846][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.15-10.06.05:014][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.15-10.06.05:015][  0]LogShaderCompilers: Guid format shader working directory is -65 characters bigger than the processId version (../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Intermediate/Shaders/WorkingDirectory/13568/).
+[2020.12.15-10.06.05:015][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/elena/AppData/Local/Temp/UnrealShaderWorkingDir/9F3C7D28428BBC55D62530ABF61054EA/'.
+[2020.12.15-10.06.05:016][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.15-10.06.05:016][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.15-10.06.06:123][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.15-10.06.06:356][  0]LogDerivedDataCache: Loaded boot cache 0.23s 77MB C:/Users/elena/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.15-10.06.06:356][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/elena/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.15-10.06.06:356][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.15-10.06.06:356][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.15-10.06.06:356][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.15-10.06.06:356][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.15-10.06.06:375][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.15-10.06.06:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.15-10.06.06:375][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.15-10.06.06:401][  0]LogDerivedDataCache: Speed tests for C:/Users/elena/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2020.12.15-10.06.06:402][  0]LogDerivedDataCache: Display: Performance to C:/Users/elena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.20ms. RandomReadSpeed=80.23MBs, RandomWriteSpeed=68.82MBs. Assigned SpeedClass 'Local'
+[2020.12.15-10.06.06:402][  0]LogDerivedDataCache: Using Local data cache path C:/Users/elena/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.15-10.06.06:402][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.15-10.06.06:402][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.15-10.06.06:463][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.15-10.06.06:464][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.15-10.06.06:514][  0]LogAssetRegistry: FAssetRegistry took 0.0103 seconds to start up
+[2020.12.15-10.06.06:958][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.15-10.06.06:958][  0]LogInit: Active device profile: [0000025285B6E000][00000252FAB42B00 49] Windows
+[2020.12.15-10.06.06:958][  0]LogInit: Profiles: [0000025285B6E000][00000252FAB42B00 49] Windows, [0000025285AF5D00][00000252FAB4AC80 49] WindowsNoEditor, [0000025285B6D400][00000252FAB4EE00 49] WindowsServer, [0000025285AF6700][00000252FAB52F80 49] WindowsClient, [0000025285B6DD00][000002528697D100 49] IOS, [0000025285AF6F00][0000025286981280 49] iPadAir, [0000025285B6C300][0000025286985400 49] iPadAir2, [0000025285AAA200][00000252FAB47680 49] IPadPro, [0000025285AAA300][00000252869896C0 49] iPadAir3, [0000025285AF5400][000002528698D800 49] iPadAir4, [0000025285AABB00][0000025286991940 49] iPadMini2, [0000025285AF6B00][0000025286995A80 49] iPadMini3, [0000025285AABE00][000002528699DC00 49] iPadMini4, [0000025285AF7C00][00000252869A00C0 49] iPadMini5, [0000025285AC9D00][00000252869A8380 49] iPhone6, [0000025285AC9E00][00000252869A43C0 49] iPodTouch6, [0000025285AA9E00][00000252869B0680 49] iPhone7, [0000025285AA9D00][00000252869AC6C0 49] iPodTouch7, [0000025285AC8E00][00000252869B4840 49] iPhone5S, [0000025285AA9A00][00000252869B89C0 49] iPhone6Plus, [0000025285AC9200][00000252869BCB40 49] iPhone6S, [0000025285AA8B00][00000252869C0CC0 49] iPhone6SPlus, [0000025285ACB300][00000252869C4E40 49] iPhone7Plus, [0000025285AAAC00][00000252869C8FC0 49] iPhoneSE, [0000025285AC9F00][00000252869CD140 49] iPhone8, [0000025285AA9B00][00000252869D12C0 49] iPhone8Plus, [0000025285ACBB00][00000252869D5440 49] iPhoneX, [0000025285AAB600][00000252869D95C0 49] iPhoneXS, [0000025285AC8500][0000025286999700 49] iPhoneXSMax, [0000025285AAA600][00000252869DD840 49] iPhoneXR, [0000025285ACAF00][00000252869E1980 49] iPhone11, [0000025285AAA800][00000252869E5AC0 49] iPhone11Pro, [0000025285ACA100][00000252869EDC40 49] iPhone11ProMax, [0000025285AAA400][00000252869F0100 49] iPhoneSE2, [0000025285ACBD00][00000252869F4280 49] iPhone12Mini, [0000025285AA9900][00000252869F8400 49] iPhone12, [0000025285AC9900][00000252869FC580 49] iPhone12Pro, [0000025285AA9800][0000025286A00700 49] iPhone12ProMax, [0000025285AC9B00][0000025286A04880 49] iPadPro105, [0000025285AABF00][0000025286A08A00 49] iPadPro129, [0000025285ACB000][0000025286A0CB80 49] iPadPro97, [0000025285AABC00][0000025286A10D00 49] iPadPro2_129, [0000025285B6DF00][0000025286A14E80 49] iPad5, [0000025285AAB800][0000025286A19000 49] iPad6, [0000025285B6C900][0000025286A1D180 49] iPad7, [0000025285AAAB00][0000025286A21300 49] iPad8, [0000025285B6E200][0000025286A25480 49] iPadPro11, [0000025285AAAE00][0000025286A29600 49] iPadPro2_11, [0000025285B6D300][0000025286A2D780 49] iPadPro3_129, [0000025285AA9500][00000252869E98C0 49] iPadPro4_129, [0000025285B6E700][0000025286A31A00 49] AppleTV, [0000025285AAB400][0000025286A35B40 49] AppleTV4K, [0000025285B6CE00][0000025286A3DCC0 49] TVOS, [0000025285AA9400][0000025286A50180 49] Mac, [0000025285B6ED00][0000025286A54300 49] MacClient, [0000025285AA9100][0000025286A58480 49] MacNoEditor, [0000025285B6EE00][0000025286A5C600 49] MacServer, [0000025285AA8C00][0000025286A60780 49] Linux, [0000025285B6D500][0000025286A64900 49] LinuxNoEditor, [0000025285AA8E00][0000025286A68A80 49] LinuxAArch64NoEditor, [0000025285B6E800][0000025286A6CC00 49] LinuxClient, [0000025285AA8600][0000025286A70D80 49] LinuxAArch64Client, [0000025285B6CA00][0000025286A74F00 49] LinuxServer, [0000025285AAB500][0000025286A79080 49] LinuxAArch64Server, [0000025285B6C100][0000025286A7D200 49] Android, [0000025285AAA900][0000025286A81380 49] Android_Low, [0000025285B6C700][0000025286A85500 49] Android_Mid, [0000025285AAA000][0000025286A89680 49] Android_High, [0000025285B6DB00][0000025286A8D800 49] Android_Default, [0000025285AAAF00][0000025286A39940 49] Android_Adreno4xx, [0000025285B6DC00][0000025286A91A80 49] Android_Adreno5xx_Low, [0000025285AABD00][0000025286A95BC0 49] Android_Adreno5xx, [0000025285B6E300][0000025286A99D00 49] Android_Adreno6xx, [0000025285AAA700][0000025286AA01C0 49] Android_Adreno6xx_Vulkan, [0000025285B6CF00][0000025286AA4340 49] Android_Mali_T6xx, [0000025285AA8F00][0000025286AA84C0 49] Android_Mali_T7xx, [0000025285B6C600][0000025286AAC640 49] Android_Mali_T8xx, [0000025285AAB000][0000025286AB07C0 49] Android_Mali_G71, [0000025285B6D700][0000025286AB4940 49] Android_Mali_G72, [0000025285AA9700][0000025286AB8AC0 49] Android_Mali_G72_Vulkan, [0000025285ACAB00][0000025286ABCC40 49] Android_Mali_G76, [0000025285AF4E00][0000025286AC0DC0 49] Android_Mali_G76_Vulkan, [0000025285ACA800][0000025286AC4F40 49] Android_Mali_G77, [0000025285AF6300][0000025286AC90C0 49] Android_Mali_G77_Vulkan, [0000025285ACBF00][0000025286ACD240 49] Android_Vulkan_SM5, [0000025285AF7A00][0000025286AD13C0 49] Android_PowerVR_G6xxx, [0000025285ACBA00][0000025286AD5540 49] Android_PowerVR_GT7xxx, [0000025285AF7500][0000025286AD96C0 49] Android_PowerVR_GE8xxx, [0000025285ACB400][0000025286ADD840 49] Android_PowerVR_GM9xxx, [0000025285AF7700][0000025286A9D980 49] Android_PowerVR_GM9xxx_Vulkan, [0000025285AC8600][0000025286AE1AC0 49] Android_TegraK1, [0000025285AF6A00][0000025286AE5C00 49] Android_Unknown_Vulkan, [0000025285ACA000][0000025286AE9D40 49] Lumin, [0000025285AF4B00][0000025286AF0200 49] Lumin_Desktop, [0000025285AC8200][0000025286AF4380 49] HoloLens, 
+[2020.12.15-10.06.07:187][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.15-10.06.07:187][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.15-10.06.07:187][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.15-10.06.07:187][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.15-10.06.07:188][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.15-10.06.07:242][  0]LogNetVersion: Escape 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2972340779)
+[2020.12.15-10.06.08:412][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.15-10.06.08:496][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.082859 seconds
+[2020.12.15-10.06.08:503][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2020.12.15-10.06.08:503][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2020.12.15-10.06.08:503][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.15-10.06.09:624][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.15-10.06.09:631][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.15-10.06.09:839][  0]SourceControl: Source control is disabled
+[2020.12.15-10.06.09:839][  0]SourceControl: Source control is disabled
+[2020.12.15-10.06.09:856][  0]SourceControl: Source control is disabled
+[2020.12.15-10.06.09:865][  0]SourceControl: Source control is disabled
+[2020.12.15-10.06.09:879][  0]SourceControl: Source control is disabled
+[2020.12.15-10.06.09:887][  0]LogUProjectInfo: Found projects:
+[2020.12.15-10.06.09:897][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.15-10.06.09:897][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.15-10.06.10:349][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.15-10.06.10:379][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.15-10.06.10:379][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.15-10.06.10:548][  0]LogCollectionManager: Loaded 0 collections in 0.002535 seconds
+[2020.12.15-10.06.10:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Collections/' took 0.00s
+[2020.12.15-10.06.10:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/Developers/elena/Collections/' took 0.00s
+[2020.12.15-10.06.10:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/Collections/' took 0.00s
+[2020.12.15-10.06.10:595][  0]LogOcInput: OculusInput pre-init called
+[2020.12.15-10.06.10:616][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.15-10.06.10:617][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.15-10.06.10:752][  0]LogEngine: Initializing Engine...
+[2020.12.15-10.06.10:754][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.15-10.06.10:755][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.15-10.06.10:761][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2020.12.15-10.06.10:924][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.15-10.06.10:966][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.15-10.06.10:972][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.15-10.06.10:977][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.15-10.06.10:977][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.15-10.06.10:979][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.15-10.06.10:979][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.15-10.06.10:979][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.15-10.06.10:979][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.15-10.06.10:979][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.15-10.06.10:979][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.15-10.06.10:979][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.15-10.06.10:979][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.15-10.06.10:981][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.15-10.06.10:981][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.15-10.06.11:002][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.15-10.06.11:002][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.15-10.06.11:047][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.12.15-10.06.11:052][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.15-10.06.11:055][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.15-10.06.11:056][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.15-10.06.11:058][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.15-10.06.11:059][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.15-10.06.11:059][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.15-10.06.11:060][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.15-10.06.11:060][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.15-10.06.11:060][  0]LogInit: FAudioDevice initialized.
+[2020.12.15-10.06.11:061][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.15-10.06.11:062][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.15-10.06.11:142][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/elena/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.15-10.06.11:147][  0]LogInit: Texture streaming: Enabled
+[2020.12.15-10.06.11:164][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2020.12.15-10.06.11:169][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.15-10.06.11:169][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={307DE77F-42CC-004D-8E51-828BD6409D89}
+[2020.12.15-10.06.11:169][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.15-10.06.11:172][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.15-10.06.11:244][  0]LogInit: Transaction tracking system initialized
+[2020.12.15-10.06.11:305][  0]BlueprintLog: New page: Editor Load
+[2020.12.15-10.06.11:508][  0]LocalizationService: Localization service is disabled
+[2020.12.15-10.06.11:577][  0]TimingProfiler: Initialize
+[2020.12.15-10.06.11:580][  0]TimingProfiler: OnSessionChanged
+[2020.12.15-10.06.11:580][  0]LoadingProfiler: Initialize
+[2020.12.15-10.06.11:581][  0]LoadingProfiler: OnSessionChanged
+[2020.12.15-10.06.11:581][  0]NetworkingProfiler: Initialize
+[2020.12.15-10.06.11:582][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.15-10.06.11:582][  0]MemoryProfiler: Initialize
+[2020.12.15-10.06.11:582][  0]MemoryProfiler: OnSessionChanged
+[2020.12.15-10.06.11:714][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.15-10.06.11:715][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.15-10.06.11:886][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.15-10.06.11:886][  0]LogCook: Display: Mobile HDR setting 0
+[2020.12.15-10.06.12:205][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/' took 0.01s
+[2020.12.15-10.06.12:456][  0]SourceControl: Source control is disabled
+[2020.12.15-10.06.12:597][  0]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.15-10.06.19:573][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.12.15-10.06.19:573][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.15-10.06.20:326][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.15-10.06.20:327][  0]LogUnrealEdMisc: Loading editor; pre map load, took 22.071
+[2020.12.15-10.06.20:332][  0]LightingResults: New page: Lighting Build
+[2020.12.15-10.06.20:339][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.06.20:341][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.06.20:344][  0]MapCheck: New page: Map Check
+[2020.12.15-10.06.20:344][  0]LightingResults: New page: Lighting Build
+[2020.12.15-10.06.20:387][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.12.15-10.06.20:507][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_00'.
+[2020.12.15-10.06.20:508][  0]LogAIModule: Creating AISystem for world Level_00
+[2020.12.15-10.06.20:540][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.15-10.06.20:557][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.12.15-10.06.20:558][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.15-10.06.20:558][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,464ms to complete.
+[2020.12.15-10.06.20:559][  0]LogFileHelpers: Loading map 'Level_00' took 0.230
+[2020.12.15-10.06.20:594][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.337
+[2020.12.15-10.06.20:739][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-10.06.20:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-10.06.20:757][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-10.06.20:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.15-10.06.20:807][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3601 classes and 859 folders.
+[2020.12.15-10.06.20:816][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.15-10.06.20:825][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.15-10.06.20:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.15-10.06.20:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2020.12.15-10.06.20:829][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.15-10.06.20:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.15-10.06.20:829][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2020.12.15-10.06.20:831][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.15-10.06.20:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.15-10.06.20:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2020.12.15-10.06.20:833][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.15-10.06.20:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.15-10.06.20:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2020.12.15-10.06.20:835][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.15-10.06.20:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.15-10.06.20:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2020.12.15-10.06.20:838][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.15-10.06.20:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.15-10.06.20:838][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2020.12.15-10.06.20:840][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.15-10.06.20:840][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:840][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.15-10.06.20:840][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2020.12.15-10.06.20:842][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.15-10.06.20:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.15-10.06.20:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2020.12.15-10.06.20:845][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.15-10.06.20:845][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:845][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.15-10.06.20:845][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2020.12.15-10.06.20:847][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.15-10.06.20:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.15-10.06.20:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2020.12.15-10.06.20:849][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.15-10.06.20:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.15-10.06.20:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2020.12.15-10.06.20:851][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.15-10.06.20:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.15-10.06.20:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2020.12.15-10.06.20:854][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.15-10.06.20:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.15-10.06.20:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2020.12.15-10.06.20:857][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.15-10.06.20:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.15-10.06.20:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2020.12.15-10.06.20:859][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.15-10.06.20:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.15-10.06.20:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2020.12.15-10.06.20:861][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.15-10.06.20:861][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:861][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.15-10.06.20:861][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2020.12.15-10.06.20:863][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.15-10.06.20:863][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:863][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.15-10.06.20:863][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2020.12.15-10.06.20:865][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.15-10.06.20:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.15-10.06.20:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2020.12.15-10.06.20:868][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.15-10.06.20:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.15-10.06.20:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2020.12.15-10.06.20:869][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.15-10.06.20:869][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:869][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.15-10.06.20:869][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2020.12.15-10.06.20:871][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.15-10.06.20:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:872][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.15-10.06.20:872][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2020.12.15-10.06.20:874][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.15-10.06.20:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.15-10.06.20:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2020.12.15-10.06.20:876][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.15-10.06.20:876][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:876][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.15-10.06.20:876][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2020.12.15-10.06.20:878][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.15-10.06.20:879][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:879][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.15-10.06.20:879][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2020.12.15-10.06.20:881][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.15-10.06.20:881][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:881][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.15-10.06.20:881][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2020.12.15-10.06.20:883][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.15-10.06.20:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.15-10.06.20:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.15-10.06.20:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2020.12.15-10.06.21:065][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.15-10.06.21:076][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2020.12.15-10.06.21:287][  0]LogSlate: Took 0.000270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.15-10.06.21:295][  0]LogSlate: Took 0.001860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.15-10.06.21:393][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.12.15-10.06.21:530][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.15-10.06.21:531][  0]LogLoad: (Engine Initialization) Total time: 23.27 seconds
+[2020.12.15-10.06.21:531][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.15-10.06.21:531][  0]LogInit: First time updating LLM stats...
+[2020.12.15-10.06.21:581][  0]LogAssetRegistry: Asset discovery search completed in 15.0701 seconds
+[2020.12.15-10.06.21:583][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.12.15-10.06.21:650][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.15-10.06.21:745][  2]LogSlate: Took 0.001858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.15-10.06.55:056][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.15-10.06.57:323][665]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.06.57:334][665]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.15-10.06.57:423][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.12.15-10.06.57:430][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.06.57:435][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.15-10.06.57:442][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.12.15-10.06.57:449][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.06.57:465][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.12.15-10.06.57:470][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.07.23:500][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.12.15-10.07.25:934][181]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.07.26:032][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.15-10.07.26:039][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.15-10.07.26:045][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.15-10.07.26:051][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.07.26:057][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.07.26:078][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.07.26:084][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.08.07:804][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.15-10.08.10:655][580]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.08.10:750][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.15-10.08.10:756][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.08.10:761][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.08.10:768][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.08.10:773][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.08.10:779][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.15-10.08.10:785][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.08.10:790][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.08.10:795][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.08.10:801][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.15-10.08.10:807][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.08.10:812][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.08.10:818][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.12.15-10.08.10:823][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.08.10:829][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.08.10:843][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.08.10:848][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.08.59:489][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.09.02:530][460]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.09.02:629][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.12.15-10.09.02:637][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.15-10.09.02:643][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.09.02:649][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.15-10.09.02:655][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.15-10.09.02:661][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.09.02:667][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.15-10.09.02:673][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.15-10.09.02:679][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.09.02:686][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.09.02:703][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.09.02:708][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.15-10.09.35:251][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.12.15-10.09.38:190][377]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.09.38:283][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.12.15-10.09.38:290][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.09.38:296][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.15-10.09.38:302][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.15-10.09.38:308][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.09.38:314][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.15-10.09.38:321][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.15-10.09.38:327][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.09.38:333][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.09.38:339][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.09.38:355][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.15-10.09.38:360][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.10.03:399][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.15-10.10.05:867][859]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.10.05:977][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.15-10.10.05:984][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.15-10.10.05:989][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.10.05:996][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.15-10.10.06:002][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.15-10.10.06:021][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.10.06:029][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.15-10.10.29:985][959]LogSlate: Took 0.001093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.15-10.10.43:047][ 96]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.46:165][154]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.46:988][166]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.47:750][178]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.48:348][184]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.48:711][188]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.49:290][198]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.49:748][204]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.54:479][312]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.55:280][328]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.56:084][342]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.57:054][365]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.57:933][382]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.58:692][395]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.59:215][406]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.10.59:823][420]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.00:145][427]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.00:630][440]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.01:158][453]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.01:521][461]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.01:855][468]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.02:197][477]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.02:578][489]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.02:937][498]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.03:319][508]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.03:613][516]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.04:055][530]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.04:401][538]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.04:689][546]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.05:051][558]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.05:350][566]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.05:679][577]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.06:001][589]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.06:263][599]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.06:600][611]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.06:966][621]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.07:265][630]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.07:545][638]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.07:766][647]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.08:043][655]LogSlate: Window 'Extract sprites' being destroyed
+[2020.12.15-10.11.08:405][671]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TheGreatEscape/Sprites/Character/Walk_003.Walk_003
+[2020.12.15-10.11.08:418][671]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.12.15-10.11.11:378][811]LogSlate: Window 'Walk_003' being destroyed
+[2020.12.15-10.11.15:489][ 44]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:13299).
+[2020.12.15-10.11.20:064][279]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/TheGreatEscape/Sprites/Character/Crawl_000_Sprite_1.Crawl_000_Sprite_1
+[2020.12.15-10.11.20:328][279]LogRenderer: Reallocating scene render targets to support 1528x916 Format 10 NumSamples 1 (Frame:1).
+[2020.12.15-10.11.22:677][415]LogSlate: Window 'Crawl_000_Sprite_1' being destroyed
+[2020.12.15-10.11.22:708][415]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.11.22:709][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.11.28:153][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.12.15-10.11.30:716][730]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.11.30:793][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.12.15-10.11.44:021][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.15-10.11.47:511][458]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.11.47:587][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.15-10.12.21:781][377]LogRenderer: Reallocating scene render targets to support 1840x916 Format 10 NumSamples 1 (Frame:1).
+[2020.12.15-10.12.26:735][663]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.12.26:735][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.12.29:021][795]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.12.29:021][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.12.30:286][867]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.12.30:286][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.12.31:393][926]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.12.31:393][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.12.32:582][987]LogSlate: Window 'Crawl_005' being destroyed
+[2020.12.15-10.12.32:590][987]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.12.32:590][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.12.36:907][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.15-10.12.40:018][236]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.12.40:101][236]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.15-10.12.47:098][611]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.15-10.12.58:733][279]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Crawl.A_Crawl
+[2020.12.15-10.14.23:426][180]Cmd: TRANSACTION UNDO
+[2020.12.15-10.14.23:426][180]LogEditorTransaction: Undo Delete Keyframe
+[2020.12.15-10.15.21:477][528]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_Crawl86C952434387C572EBBCC5861BBD4E8F.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Character/A_Crawl.uasset'
+[2020.12.15-10.15.21:487][528]AssetCheck: New page: Asset Save: A_Crawl
+[2020.12.15-10.15.21:487][528]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Crawl.A_Crawl
+[2020.12.15-10.15.24:991][728]LogSlate: Window 'A_Crawl' being destroyed
+[2020.12.15-10.15.25:006][728]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.15.25:006][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.15.42:899][658]Cmd: TRANSACTION UNDO
+[2020.12.15-10.15.42:899][658]LogEditorTransaction: Undo Reorder key frames
+[2020.12.15-10.15.47:545][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.12.15-10.15.50:209][912]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.15.50:288][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.15-10.15.56:333][231]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.15-10.16.04:501][680]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Die.A_Die
+[2020.12.15-10.17.23:359][273]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_DieB3FBDCAB45F5EA059060FDB4811D7249.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Character/A_Die.uasset'
+[2020.12.15-10.17.23:369][273]AssetCheck: New page: Asset Save: A_Die
+[2020.12.15-10.17.23:369][273]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Die.A_Die
+[2020.12.15-10.17.25:413][385]LogSlate: Window 'A_Die' being destroyed
+[2020.12.15-10.17.25:452][385]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.17.25:452][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.17.58:197][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.15-10.17.58:219][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TheGreatEscape/Maps/Level_00' took 0.029
+[2020.12.15-10.17.58:220][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Character/A_Crawl] ([1] browsable assets)...
+[2020.12.15-10.17.58:234][276]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Crawl.A_Crawl]
+[2020.12.15-10.17.58:234][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Character/A_Crawl]
+[2020.12.15-10.17.58:247][276]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_Crawl_Auto124F4A35143337269E93AFFA15C6D5180.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Character/A_Crawl_Auto1.uasset'
+[2020.12.15-10.17.58:248][276]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.12.15-10.18.39:010][623]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.15-10.18.56:612][572]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Hit.A_Hit
+[2020.12.15-10.19.48:046][588]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_Hit49F3815A4501C0578DC2E492361A896E.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Character/A_Hit.uasset'
+[2020.12.15-10.19.48:056][588]AssetCheck: New page: Asset Save: A_Hit
+[2020.12.15-10.19.48:056][588]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Hit.A_Hit
+[2020.12.15-10.19.50:250][712]LogSlate: Window 'A_Hit' being destroyed
+[2020.12.15-10.19.50:265][712]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.19.50:265][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.20.14:379][ 25]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.15-10.20.20:328][379]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Idle.A_Idle
+[2020.12.15-10.21.03:831][885]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_IdleECD6049346CB4B37564EE99A381ADB3A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Character/A_Idle.uasset'
+[2020.12.15-10.21.03:843][885]AssetCheck: New page: Asset Save: A_Idle
+[2020.12.15-10.21.03:843][885]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Idle.A_Idle
+[2020.12.15-10.21.10:181][243]LogSlate: Window 'A_Idle' being destroyed
+[2020.12.15-10.21.10:197][243]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.21.10:197][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.21.24:253][934]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.15-10.21.29:177][224]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Jump.A_Jump
+[2020.12.15-10.22.23:537][373]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_Jump80AB3BD24E9028858D84C6BDE8827852.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Character/A_Jump.uasset'
+[2020.12.15-10.22.23:554][373]AssetCheck: New page: Asset Save: A_Jump
+[2020.12.15-10.22.23:554][373]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Jump.A_Jump
+[2020.12.15-10.22.25:678][497]LogSlate: Window 'A_Jump' being destroyed
+[2020.12.15-10.22.25:696][497]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.22.25:696][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.23.00:793][500]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Jump.A_Jump
+[2020.12.15-10.24.11:018][578]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_JumpEEF4FC9D4C7F0B3692F129AA3271BBE1.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Character/A_Jump.uasset'
+[2020.12.15-10.24.11:029][578]AssetCheck: New page: Asset Save: A_Jump
+[2020.12.15-10.24.11:029][578]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Jump.A_Jump
+[2020.12.15-10.24.13:245][710]LogSlate: Window 'A_Jump' being destroyed
+[2020.12.15-10.24.13:260][710]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.24.13:260][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.24.23:529][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.12.15-10.24.27:274][263]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.24.27:384][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.15-10.24.27:392][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.15-10.24.27:398][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.15-10.24.27:404][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.15-10.24.27:410][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.15-10.24.27:430][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.15-10.24.27:437][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.12.15-10.24.36:737][769]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.15-10.24.46:678][342]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Throw.A_Throw
+[2020.12.15-10.25.33:280][ 45]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_Throw372741F443395293A51231A0CEB9F5C0.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Character/A_Throw.uasset'
+[2020.12.15-10.25.33:288][ 45]AssetCheck: New page: Asset Save: A_Throw
+[2020.12.15-10.25.33:289][ 45]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Throw.A_Throw
+[2020.12.15-10.25.35:832][188]LogSlate: Window 'A_Throw' being destroyed
+[2020.12.15-10.25.35:848][188]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.25.35:848][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.25.42:218][523]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.15-10.25.49:700][969]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Walk.A_Walk
+[2020.12.15-10.26.59:092][ 79]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_Walk71358A1C4EE25B7F65102DA37DC94FAA.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Character/A_Walk.uasset'
+[2020.12.15-10.26.59:102][ 79]AssetCheck: New page: Asset Save: A_Walk
+[2020.12.15-10.26.59:102][ 79]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Character/A_Walk.A_Walk
+[2020.12.15-10.27.16:383][105]LogSlate: Window 'A_Walk' being destroyed
+[2020.12.15-10.27.16:396][105]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.12.15-10.27.16:396][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.15-10.27.20:736][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.12.15-10.27.27:062][346]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.27.32:317][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.12.15-10.27.36:646][627]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.15-10.27.36:732][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.12.15-10.27.57:634][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.15-10.27.57:663][645]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Level_005D37642C417AF1F6BD3A3E84A6E5E1DF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Maps/Level_00.umap'
+[2020.12.15-10.27.57:715][645]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Level_00_BuiltDataB611BF7D47991E19D05D1D9C51A3AB01.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Maps/Level_00_BuiltData.uasset'
+[2020.12.15-10.27.57:733][645]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.15-10.27.57:733][645]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TheGreatEscape/Maps/Level_00_BuiltData.Level_00_BuiltData
+[2020.12.15-10.27.57:733][645]LogContentValidation: Display: Validating World /Game/TheGreatEscape/Maps/Level_00.Level_00
