@@ -788,3 +788,878 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.15-16.24.53:064][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.12.15-16.24.53:179][  2]LogSlate: Took 0.006810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.12.15-17.54.11:025][473]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.15-20.11.50:743][710]LogAnalytics: Warning: EventCache either took too long to flush (1.446 ms) or had a very large payload (0.431 KB, 1 events). Listing events in the payload for investigation:
+[2020.12.15-20.11.50:744][710]LogAnalytics: Warning:     Editor.Usage.Heartbeat,428
+[2020.12.15-20.24.13:837][928]LogSlate: Took 0.008854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.15-21.55.54:367][105]LogSlate: Took 0.001425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.15-21.55.54:444][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run10_left.png)
+[2020.12.15-21.55.54:559][105]LogTexture: Display: Building textures: Run10_left (BGRA8, 274X363)
+[2020.12.15-21.55.54:591][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Attack1_left.png)
+[2020.12.15-21.55.54:596][105]LogTexture: Display: Building textures: Attack1_left (BGRA8, 244X361)
+[2020.12.15-21.55.54:622][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Attack2_left.png)
+[2020.12.15-21.55.54:626][105]LogTexture: Display: Building textures: Attack2_left (BGRA8, 243X361)
+[2020.12.15-21.55.54:638][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Attack3_left.png)
+[2020.12.15-21.55.54:642][105]LogTexture: Display: Building textures: Attack3_left (BGRA8, 217X361)
+[2020.12.15-21.55.54:655][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Attack4_left.png)
+[2020.12.15-21.55.54:659][105]LogTexture: Display: Building textures: Attack4_left (BGRA8, 216X342)
+[2020.12.15-21.55.54:671][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Attack5_left.png)
+[2020.12.15-21.55.54:674][105]LogTexture: Display: Building textures: Attack5_left (BGRA8, 227X342)
+[2020.12.15-21.55.54:678][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Attack6_left.png)
+[2020.12.15-21.55.54:684][105]LogTexture: Display: Building textures: Attack6_left (BGRA8, 186X360)
+[2020.12.15-21.55.54:692][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Dead1_left.png)
+[2020.12.15-21.55.54:697][105]LogTexture: Display: Building textures: Dead1_left (BGRA8, 187X364)
+[2020.12.15-21.55.54:702][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Dead2_left.png)
+[2020.12.15-21.55.54:706][105]LogTexture: Display: Building textures: Dead2_left (BGRA8, 239X357)
+[2020.12.15-21.55.54:714][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Dead3_left.png)
+[2020.12.15-21.55.54:719][105]LogTexture: Display: Building textures: Dead3_left (AutoDXT, 312X332)
+[2020.12.15-21.55.54:782][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Dead4_left.png)
+[2020.12.15-21.55.54:785][105]LogTexture: Display: Building textures: Dead4_left (BGRA8, 380X270)
+[2020.12.15-21.55.54:790][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Dead5_left.png)
+[2020.12.15-21.55.54:793][105]LogTexture: Display: Building textures: Dead5_left (BGRA8, 374X236)
+[2020.12.15-21.55.54:798][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Dead6_left.png)
+[2020.12.15-21.55.54:801][105]LogTexture: Display: Building textures: Dead6_left (BGRA8, 402X145)
+[2020.12.15-21.55.54:821][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Dead7_left.png)
+[2020.12.15-21.55.54:823][105]LogTexture: Display: Building textures: Dead7_left (BGRA8, 449X151)
+[2020.12.15-21.55.54:827][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Dead8_left.png)
+[2020.12.15-21.55.54:831][105]LogTexture: Display: Building textures: Dead8_left (BGRA8, 448X169)
+[2020.12.15-21.55.54:835][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Hurt1_left.png)
+[2020.12.15-21.55.54:838][105]LogTexture: Display: Building textures: Hurt1_left (BGRA8, 180X379)
+[2020.12.15-21.55.54:843][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Hurt2_left.png)
+[2020.12.15-21.55.54:847][105]LogTexture: Display: Building textures: Hurt2_left (BGRA8, 228X374)
+[2020.12.15-21.55.54:853][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Hurt3_left.png)
+[2020.12.15-21.55.54:856][105]LogTexture: Display: Building textures: Hurt3_left (BGRA8, 288X325)
+[2020.12.15-21.55.54:861][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Hurt4_left.png)
+[2020.12.15-21.55.54:864][105]LogTexture: Display: Building textures: Hurt4_left (BGRA8, 237X331)
+[2020.12.15-21.55.54:869][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Idle1_left.png)
+[2020.12.15-21.55.54:872][105]LogTexture: Display: Building textures: Idle1_left (BGRA8, 221X372)
+[2020.12.15-21.55.54:877][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Idle2_left.png)
+[2020.12.15-21.55.54:882][105]LogTexture: Display: Building textures: Idle2_left (BGRA8, 225X373)
+[2020.12.15-21.55.54:888][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Idle3_left.png)
+[2020.12.15-21.55.54:891][105]LogTexture: Display: Building textures: Idle3_left (AutoDXT, 232X372)
+[2020.12.15-21.55.54:934][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Idle4_left.png)
+[2020.12.15-21.55.54:937][105]LogTexture: Display: Building textures: Idle4_left (BGRA8, 233X370)
+[2020.12.15-21.55.54:942][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run1_left.png)
+[2020.12.15-21.55.54:944][105]LogTexture: Display: Building textures: Run1_left (BGRA8, 172X377)
+[2020.12.15-21.55.54:949][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run2_left.png)
+[2020.12.15-21.55.54:952][105]LogTexture: Display: Building textures: Run2_left (BGRA8, 210X379)
+[2020.12.15-21.55.54:958][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run3_left.png)
+[2020.12.15-21.55.54:961][105]LogTexture: Display: Building textures: Run3_left (BGRA8, 220X369)
+[2020.12.15-21.55.54:966][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run4_left.png)
+[2020.12.15-21.55.54:969][105]LogTexture: Display: Building textures: Run4_left (BGRA8, 239X368)
+[2020.12.15-21.55.54:973][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run5_left.png)
+[2020.12.15-21.55.54:976][105]LogTexture: Display: Building textures: Run5_left (BGRA8, 227X370)
+[2020.12.15-21.55.54:981][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run6_left.png)
+[2020.12.15-21.55.54:984][105]LogTexture: Display: Building textures: Run6_left (AutoDXT, 296X380)
+[2020.12.15-21.55.55:037][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run7_left.png)
+[2020.12.15-21.55.55:041][105]LogTexture: Display: Building textures: Run7_left (BGRA8, 333X374)
+[2020.12.15-21.55.55:048][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run8_left.png)
+[2020.12.15-21.55.55:052][105]LogTexture: Display: Building textures: Run8_left (BGRA8, 294X343)
+[2020.12.15-21.55.55:060][105]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie1\animation\Run9_left.png)
+[2020.12.15-21.55.55:065][105]LogTexture: Display: Building textures: Run9_left (BGRA8, 245X379)
+[2020.12.15-21.56.07:890][695]LogTexture: Display: Building textures: Dead3_left (BGRA8, 312X332)
+[2020.12.15-21.56.07:901][695]LogTexture: Display: Building textures: Idle3_left (BGRA8, 232X372)
+[2020.12.15-21.56.07:908][695]LogTexture: Display: Building textures: Run6_left (BGRA8, 296X380)
+[2020.12.15-21.56.42:387][595]LogUObjectHash: Compacting FUObjectHashTables data took   9.41ms
+[2020.12.15-21.56.42:402][595]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TheGreatEscape/Maps/Level_00' took 0.089
+[2020.12.15-21.56.42:405][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run10_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:414][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run10_left.Run10_left]
+[2020.12.15-21.56.42:414][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run10_left]
+[2020.12.15-21.56.42:435][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run10_left_Auto12C9C36C34763299968CC73A62F3748DE.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run10_left_Auto1.uasset'
+[2020.12.15-21.56.42:437][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack1_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:443][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack1_left.Attack1_left]
+[2020.12.15-21.56.42:443][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack1_left]
+[2020.12.15-21.56.42:451][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack1_left_Auto19BF862774562B03A99949DAE29ECA7A0.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack1_left_Auto1.uasset'
+[2020.12.15-21.56.42:452][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack2_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:456][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack2_left.Attack2_left]
+[2020.12.15-21.56.42:456][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack2_left]
+[2020.12.15-21.56.42:464][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack2_left_Auto19AF0E29F4956DE62BE602AB38BFA5310.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack2_left_Auto1.uasset'
+[2020.12.15-21.56.42:465][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack3_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:469][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack3_left.Attack3_left]
+[2020.12.15-21.56.42:469][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack3_left]
+[2020.12.15-21.56.42:477][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack3_left_Auto17B39E60D470D60652A8FFF89F24EDB7D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack3_left_Auto1.uasset'
+[2020.12.15-21.56.42:478][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack4_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:483][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack4_left.Attack4_left]
+[2020.12.15-21.56.42:483][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack4_left]
+[2020.12.15-21.56.42:493][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack4_left_Auto10CC0A9A14ADB1554CC6AFF9B035A5CF6.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack4_left_Auto1.uasset'
+[2020.12.15-21.56.42:494][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack5_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:498][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack5_left.Attack5_left]
+[2020.12.15-21.56.42:498][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack5_left]
+[2020.12.15-21.56.42:506][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack5_left_Auto1FB0C80AA4DC8759B5F459DAEEC8727CA.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack5_left_Auto1.uasset'
+[2020.12.15-21.56.42:507][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack6_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:510][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack6_left.Attack6_left]
+[2020.12.15-21.56.42:510][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack6_left]
+[2020.12.15-21.56.42:519][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack6_left_Auto17591DEB848D1AEBBB1BEFC96227E124D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack6_left_Auto1.uasset'
+[2020.12.15-21.56.42:519][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead1_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:528][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead1_left.Dead1_left]
+[2020.12.15-21.56.42:528][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead1_left]
+[2020.12.15-21.56.42:539][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead1_left_Auto15490257740742B807B56BA8A987273DE.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead1_left_Auto1.uasset'
+[2020.12.15-21.56.42:540][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead2_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:544][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead2_left.Dead2_left]
+[2020.12.15-21.56.42:544][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead2_left]
+[2020.12.15-21.56.42:552][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead2_left_Auto11458256040CE9D608DF0E6939A011F7C.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead2_left_Auto1.uasset'
+[2020.12.15-21.56.42:553][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead3_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:558][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead3_left.Dead3_left]
+[2020.12.15-21.56.42:558][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead3_left]
+[2020.12.15-21.56.42:567][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead3_left_Auto190EF2F5A48E0E7009EAC34865A08FA25.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead3_left_Auto1.uasset'
+[2020.12.15-21.56.42:568][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead4_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:573][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead4_left.Dead4_left]
+[2020.12.15-21.56.42:573][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead4_left]
+[2020.12.15-21.56.42:581][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead4_left_Auto1EF9485A0411CB2ADAF837096DEBB8EFF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead4_left_Auto1.uasset'
+[2020.12.15-21.56.42:582][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead5_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:586][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead5_left.Dead5_left]
+[2020.12.15-21.56.42:586][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead5_left]
+[2020.12.15-21.56.42:593][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead5_left_Auto10DB8A48B453EB4602FEC0BB7A9E86D46.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead5_left_Auto1.uasset'
+[2020.12.15-21.56.42:594][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead6_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:597][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead6_left.Dead6_left]
+[2020.12.15-21.56.42:597][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead6_left]
+[2020.12.15-21.56.42:605][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead6_left_Auto106DC796C4444294A1F16E282FE780BF1.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead6_left_Auto1.uasset'
+[2020.12.15-21.56.42:606][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead7_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:609][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead7_left.Dead7_left]
+[2020.12.15-21.56.42:609][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead7_left]
+[2020.12.15-21.56.42:617][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead7_left_Auto14D515D614DC4FD8CAB0A648980D9BCFC.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead7_left_Auto1.uasset'
+[2020.12.15-21.56.42:618][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead8_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:622][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead8_left.Dead8_left]
+[2020.12.15-21.56.42:622][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead8_left]
+[2020.12.15-21.56.42:630][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead8_left_Auto193CEDAAB4F70C627FFCDBDB93EB93140.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead8_left_Auto1.uasset'
+[2020.12.15-21.56.42:631][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt1_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:635][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt1_left.Hurt1_left]
+[2020.12.15-21.56.42:636][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt1_left]
+[2020.12.15-21.56.42:644][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt1_left_Auto15480247542F6B3FA0991B39A3064499A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt1_left_Auto1.uasset'
+[2020.12.15-21.56.42:645][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt2_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:651][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt2_left.Hurt2_left]
+[2020.12.15-21.56.42:651][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt2_left]
+[2020.12.15-21.56.42:660][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt2_left_Auto14C9DBFC141867C5A693F6B8AFE212BEE.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt2_left_Auto1.uasset'
+[2020.12.15-21.56.42:661][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt3_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:668][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt3_left.Hurt3_left]
+[2020.12.15-21.56.42:668][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt3_left]
+[2020.12.15-21.56.42:678][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt3_left_Auto183D228214DBC88FD08D01E945833A599.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt3_left_Auto1.uasset'
+[2020.12.15-21.56.42:679][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt4_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:684][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt4_left.Hurt4_left]
+[2020.12.15-21.56.42:684][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt4_left]
+[2020.12.15-21.56.42:699][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt4_left_Auto1D566332D4FC1A50E6D814B90E17FB68A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt4_left_Auto1.uasset'
+[2020.12.15-21.56.42:700][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle1_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:705][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle1_left.Idle1_left]
+[2020.12.15-21.56.42:705][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle1_left]
+[2020.12.15-21.56.42:715][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle1_left_Auto17F51DB5248E5E237A1A4189A0B63D7AF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle1_left_Auto1.uasset'
+[2020.12.15-21.56.42:716][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle2_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:725][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle2_left.Idle2_left]
+[2020.12.15-21.56.42:725][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle2_left]
+[2020.12.15-21.56.42:734][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle2_left_Auto18A0971C440E0FE34D13A02924037C266.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle2_left_Auto1.uasset'
+[2020.12.15-21.56.42:735][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle3_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:740][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle3_left.Idle3_left]
+[2020.12.15-21.56.42:740][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle3_left]
+[2020.12.15-21.56.42:749][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle3_left_Auto154426BED47D9BC00313AED9BE77103AE.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle3_left_Auto1.uasset'
+[2020.12.15-21.56.42:750][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle4_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:755][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle4_left.Idle4_left]
+[2020.12.15-21.56.42:755][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle4_left]
+[2020.12.15-21.56.42:764][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle4_left_Auto15550760344F2E429345BD8B59C421816.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle4_left_Auto1.uasset'
+[2020.12.15-21.56.42:765][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run1_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:768][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run1_left.Run1_left]
+[2020.12.15-21.56.42:768][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run1_left]
+[2020.12.15-21.56.42:778][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run1_left_Auto1ADFCE9B24E7FC22F5CB86F9C7F995C50.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run1_left_Auto1.uasset'
+[2020.12.15-21.56.42:778][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run2_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:783][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run2_left.Run2_left]
+[2020.12.15-21.56.42:783][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run2_left]
+[2020.12.15-21.56.42:792][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run2_left_Auto1ECCF5531416BFCA1130E56B8CB9FE335.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run2_left_Auto1.uasset'
+[2020.12.15-21.56.42:792][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run3_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:797][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run3_left.Run3_left]
+[2020.12.15-21.56.42:797][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run3_left]
+[2020.12.15-21.56.42:806][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run3_left_Auto1B3B36BF646523FC0F65363AE8980D93D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run3_left_Auto1.uasset'
+[2020.12.15-21.56.42:807][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run4_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:812][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run4_left.Run4_left]
+[2020.12.15-21.56.42:812][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run4_left]
+[2020.12.15-21.56.42:821][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run4_left_Auto1CF22412C420E8E147D03558313CF03C5.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run4_left_Auto1.uasset'
+[2020.12.15-21.56.42:822][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run5_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:827][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run5_left.Run5_left]
+[2020.12.15-21.56.42:827][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run5_left]
+[2020.12.15-21.56.42:836][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run5_left_Auto12CDAC56A488C9FFB347C7082AA796DEF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run5_left_Auto1.uasset'
+[2020.12.15-21.56.42:837][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run6_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:843][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run6_left.Run6_left]
+[2020.12.15-21.56.42:843][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run6_left]
+[2020.12.15-21.56.42:852][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run6_left_Auto1A1BA46AB4FA2B1DBDE6590819E5979DA.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run6_left_Auto1.uasset'
+[2020.12.15-21.56.42:853][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run7_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:859][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run7_left.Run7_left]
+[2020.12.15-21.56.42:859][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run7_left]
+[2020.12.15-21.56.42:869][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run7_left_Auto17DD76CE9469A49B836A40B84B26E8E29.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run7_left_Auto1.uasset'
+[2020.12.15-21.56.42:870][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run8_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:875][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run8_left.Run8_left]
+[2020.12.15-21.56.42:875][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run8_left]
+[2020.12.15-21.56.42:884][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run8_left_Auto10FCFDC9049537C2FB5B1169C08465C55.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run8_left_Auto1.uasset'
+[2020.12.15-21.56.42:885][595]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run9_left] ([1] browsable assets)...
+[2020.12.15-21.56.42:890][595]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run9_left.Run9_left]
+[2020.12.15-21.56.42:890][595]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run9_left]
+[2020.12.15-21.56.42:899][595]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run9_left_Auto15C799C9B4A94F6C823C8CEB1C15D6A55.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run9_left_Auto1.uasset'
+[2020.12.15-21.56.42:900][595]LogFileHelpers: Auto-saving content packages took 0.498
+[2020.12.16-17.00.58:061][913]LogHttp: Warning: 00000251D143F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1BC600E0-4E1D-AE52-5A67-92ADBA3B606B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=33fbd530418dee41165e0ca989b47b0d%7C556970ce71024ab2ab69cea92d20e4cf%7C82385e5f-bd67-48a3-a775-104294cd86ce&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: request failed, libcurl error: 0 (No error)
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2519fb0feb0 [can pipeline])
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.221.151.149) port 443 (#0))
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: libcurl info message cache 7 (Closing connection 0)
+[2020.12.16-17.00.58:062][913]LogHttp: Warning: 00000251D143F900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.12.16-17.00.58:393][914]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1BC600E0-4E1D-AE52-5A67-92ADBA3B606B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=33fbd530418dee41165e0ca989b47b0d%7C556970ce71024ab2ab69cea92d20e4cf%7C82385e5f-bd67-48a3-a775-104294cd86ce&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.12.16-20.43.24:585][227]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.12.16-20.43.28:290][227]LogSlate: Window 'Save Content' being destroyed
+[2020.12.16-20.43.28:580][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack1_left3BE0C66B492FA0B430F11289DB746639.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack1_left.uasset'
+[2020.12.16-20.43.28:600][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack1_left_SpriteE004BF1B4F7EEC09218C3A832C5F4A94.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack1_left_Sprite.uasset'
+[2020.12.16-20.43.28:613][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack2_left7D2F0DEB44DD544B955DCA95B59EC978.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack2_left.uasset'
+[2020.12.16-20.43.28:633][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack2_left_SpriteF3CD2A4543519E9486CD38982BE02BBF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack2_left_Sprite.uasset'
+[2020.12.16-20.43.28:647][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack3_left688206D344DAE2ECEC2710BD24F6738F.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack3_left.uasset'
+[2020.12.16-20.43.28:663][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack3_left_Sprite5C3BC51A4E7623840E74C49E53CCF969.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack3_left_Sprite.uasset'
+[2020.12.16-20.43.28:675][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack4_leftD4AE385146E3C233C0CF959441BBB218.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack4_left.uasset'
+[2020.12.16-20.43.28:692][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack4_left_SpriteFCBEAF8F42D1829095D2078D8AFC9B52.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack4_left_Sprite.uasset'
+[2020.12.16-20.43.28:705][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack5_leftB1577CA34F9D9D25698354BBB681E17D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack5_left.uasset'
+[2020.12.16-20.43.28:721][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack5_left_Sprite3C8CEFDB4D10B2FA92982987A6B0A756.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack5_left_Sprite.uasset'
+[2020.12.16-20.43.28:733][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack6_left7BF84E9142BE557E4ACBE5978BC09948.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack6_left.uasset'
+[2020.12.16-20.43.28:748][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack6_left_SpriteD7F1C153429D5A1F9C1E09914AC9B90C.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack6_left_Sprite.uasset'
+[2020.12.16-20.43.28:774][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead1_leftEF628978454BE5CA645213B9B321610D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead1_left.uasset'
+[2020.12.16-20.43.28:792][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead1_left_Sprite139A5FCD42D00D5262893785BC309433.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead1_left_Sprite.uasset'
+[2020.12.16-20.43.28:805][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead2_left2618289240D396F712195CB273A97C80.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead2_left.uasset'
+[2020.12.16-20.43.28:821][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead2_left_Sprite0A10F3A0476CEAE308B0F892E4535210.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead2_left_Sprite.uasset'
+[2020.12.16-20.43.28:842][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead3_leftFD1CE0F64E1D86DDB2F4ECAA10274C05.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead3_left.uasset'
+[2020.12.16-20.43.28:858][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead3_left_SpriteB691AE0C4BD3D8B64F65B2AF755DB19B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead3_left_Sprite.uasset'
+[2020.12.16-20.43.28:871][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead4_left27E0767F422F4B2DF9C371BC8854E671.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead4_left.uasset'
+[2020.12.16-20.43.28:887][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead4_left_Sprite2EFC123E4963300261ADD3B6DEB1A6D6.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead4_left_Sprite.uasset'
+[2020.12.16-20.43.28:900][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead5_left0D1028EE4BFEE8264DC4ABA65CDB775D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead5_left.uasset'
+[2020.12.16-20.43.28:917][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead5_left_SpriteCB0B2F98416C676E100CDEAB7E307687.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead5_left_Sprite.uasset'
+[2020.12.16-20.43.28:928][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead6_left7BC6B5404DCE5FEDB764EF9D10B311ED.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead6_left.uasset'
+[2020.12.16-20.43.28:943][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead6_left_Sprite5D2571164A053B6195D13B81591388C1.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead6_left_Sprite.uasset'
+[2020.12.16-20.43.28:956][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead7_leftB7C844164D86E904444B1BA29610803A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead7_left.uasset'
+[2020.12.16-20.43.28:972][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead7_left_Sprite81D8657D486FEB1808DB4592651EAA07.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead7_left_Sprite.uasset'
+[2020.12.16-20.43.28:984][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead8_leftA902D30E460F510B02F59A815E0FB5C8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead8_left.uasset'
+[2020.12.16-20.43.29:000][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead8_left_Sprite4F831A7841A906BA55EDF5ABF3326A41.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead8_left_Sprite.uasset'
+[2020.12.16-20.43.29:011][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt1_left7D0451024E657DFD522853847EB23C15.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt1_left.uasset'
+[2020.12.16-20.43.29:027][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt1_left_Sprite21E3194146BD60B9E731278234F2BE72.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt1_left_Sprite.uasset'
+[2020.12.16-20.43.29:041][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt2_left703EAC0E4130E74CDE3AC994050A1BDC.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt2_left.uasset'
+[2020.12.16-20.43.29:058][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt2_left_SpriteA661E7EC4E99CC4F261836A3AE455A88.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt2_left_Sprite.uasset'
+[2020.12.16-20.43.29:071][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt3_left5C12D53648C312195376F384C8DCAB52.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt3_left.uasset'
+[2020.12.16-20.43.29:088][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt3_left_SpriteF3EC148940073C8EABD8F9B586E7C3B3.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt3_left_Sprite.uasset'
+[2020.12.16-20.43.29:102][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt4_left6A7B0F49412615671B83BF86D254CEA8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt4_left.uasset'
+[2020.12.16-20.43.29:119][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt4_left_Sprite61C9B4924CB9812A1B7F908BD6DDE8C0.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt4_left_Sprite.uasset'
+[2020.12.16-20.43.29:132][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle1_left92528E424BD847FFD92F4FB306AE1507.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle1_left.uasset'
+[2020.12.16-20.43.29:148][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle1_left_SpriteD526A92B463FC31730C1EFA7BFE5A398.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle1_left_Sprite.uasset'
+[2020.12.16-20.43.29:160][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle2_left73F89185412FB2BA8C684FAF5EAD31A9.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle2_left.uasset'
+[2020.12.16-20.43.29:176][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle2_left_SpriteBA3D92AB4F77950F1DF057AF85A65E03.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle2_left_Sprite.uasset'
+[2020.12.16-20.43.29:189][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle3_left621696484E7C4CD2465846BB29F10968.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle3_left.uasset'
+[2020.12.16-20.43.29:205][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle3_left_SpriteD8596D964DD8E73650E269A66910EA27.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle3_left_Sprite.uasset'
+[2020.12.16-20.43.29:218][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle4_left272F02C04ED9A44D01A87089FD694DC4.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle4_left.uasset'
+[2020.12.16-20.43.29:235][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle4_left_Sprite58139A2B45316DAF0053EA8803B866B7.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle4_left_Sprite.uasset'
+[2020.12.16-20.43.29:250][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run10_left41A3FF454C1A3F0D260F0999BE383684.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run10_left.uasset'
+[2020.12.16-20.43.29:267][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run10_left_Sprite9CAB542E445C28477321AA80783339B1.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run10_left_Sprite.uasset'
+[2020.12.16-20.43.29:280][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run1_left36B3C6F74F31BFBA103F1787FE3AD1DE.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run1_left.uasset'
+[2020.12.16-20.43.29:296][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run1_left_SpriteB33FD5AE426D18822E9DD0900BAA0356.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run1_left_Sprite.uasset'
+[2020.12.16-20.43.29:307][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run2_leftA00EE3624769F3A34960F0A757CBED55.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run2_left.uasset'
+[2020.12.16-20.43.29:323][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run2_left_Sprite8E30B1C843CD71560E2EFA889D8D0E08.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run2_left_Sprite.uasset'
+[2020.12.16-20.43.29:334][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run3_leftCD0BE41540BBD30E5AA8408F4A8683EF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run3_left.uasset'
+[2020.12.16-20.43.29:352][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run3_left_Sprite10EEB7D642F17241D30C929761069587.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run3_left_Sprite.uasset'
+[2020.12.16-20.43.29:363][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run4_leftC6F452734C41C6621887C78BDF97B1E3.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run4_left.uasset'
+[2020.12.16-20.43.29:379][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run4_left_SpriteBA82CE9A4E205C597DC2529957680AF3.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run4_left_Sprite.uasset'
+[2020.12.16-20.43.29:391][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run5_leftA61C8F164BF17ED8552368AEB194A034.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run5_left.uasset'
+[2020.12.16-20.43.29:407][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run5_left_SpriteF2B35DDC446215B4F4C9CE8B3514977B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run5_left_Sprite.uasset'
+[2020.12.16-20.43.29:423][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run6_leftB3DE42814F7DAA29F1E8C9BD0C7E2385.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run6_left.uasset'
+[2020.12.16-20.43.29:440][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run6_left_Sprite41F483DD4293B9B244EC2380DB3D4D3D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run6_left_Sprite.uasset'
+[2020.12.16-20.43.29:454][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run7_leftEDF77903462CE2F983AEF680A7AD4F7A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run7_left.uasset'
+[2020.12.16-20.43.29:475][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run7_left_Sprite36EEFA1F40E739CC752B2D97255B6B38.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run7_left_Sprite.uasset'
+[2020.12.16-20.43.29:492][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run8_left1069E4E6464475E21836FBA62B291A2D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run8_left.uasset'
+[2020.12.16-20.43.29:508][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run8_left_SpriteEA79430F4BE0FB1BCF0542BAA824E134.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run8_left_Sprite.uasset'
+[2020.12.16-20.43.29:520][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run9_left8F53DE9D4C8756471012C5BE252D2E7C.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run9_left.uasset'
+[2020.12.16-20.43.29:536][227]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run9_left_SpriteB547D2794475C7D046FD889B44AD7151.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_1/Run9_left_Sprite.uasset'
+[2020.12.16-20.43.29:662][227]LogSlate: Window 'Escape - Unreal Editor' being destroyed
+[2020.12.16-20.43.30:527][227]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.16-20.43.30:527][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt2_left.Hurt2_left
+[2020.12.16-20.43.30:527][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt1_left.Hurt1_left
+[2020.12.16-20.43.30:527][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead8_left.Dead8_left
+[2020.12.16-20.43.30:527][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead7_left.Dead7_left
+[2020.12.16-20.43.30:527][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead6_left.Dead6_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead5_left.Dead5_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead4_left.Dead4_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead3_left.Dead3_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead2_left.Dead2_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead1_left.Dead1_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack6_left.Attack6_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack5_left.Attack5_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack4_left.Attack4_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack3_left.Attack3_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack2_left.Attack2_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack1_left.Attack1_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run10_left.Run10_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt3_left.Hurt3_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt4_left.Hurt4_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle1_left.Idle1_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle2_left.Idle2_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle3_left.Idle3_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle4_left.Idle4_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run1_left.Run1_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run2_left.Run2_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run3_left.Run3_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run4_left.Run4_left
+[2020.12.16-20.43.30:528][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run5_left.Run5_left
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run6_left.Run6_left
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run7_left.Run7_left
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run8_left.Run8_left
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run9_left.Run9_left
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack1_left_Sprite.Attack1_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack2_left_Sprite.Attack2_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack3_left_Sprite.Attack3_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack4_left_Sprite.Attack4_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack5_left_Sprite.Attack5_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Attack6_left_Sprite.Attack6_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead1_left_Sprite.Dead1_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead2_left_Sprite.Dead2_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead3_left_Sprite.Dead3_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead4_left_Sprite.Dead4_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead5_left_Sprite.Dead5_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead6_left_Sprite.Dead6_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead7_left_Sprite.Dead7_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Dead8_left_Sprite.Dead8_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt1_left_Sprite.Hurt1_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt2_left_Sprite.Hurt2_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt3_left_Sprite.Hurt3_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Hurt4_left_Sprite.Hurt4_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle1_left_Sprite.Idle1_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle2_left_Sprite.Idle2_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle3_left_Sprite.Idle3_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Idle4_left_Sprite.Idle4_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run10_left_Sprite.Run10_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run1_left_Sprite.Run1_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run2_left_Sprite.Run2_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run3_left_Sprite.Run3_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run4_left_Sprite.Run4_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run5_left_Sprite.Run5_left_Sprite
+[2020.12.16-20.43.30:529][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run6_left_Sprite.Run6_left_Sprite
+[2020.12.16-20.43.30:530][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run7_left_Sprite.Run7_left_Sprite
+[2020.12.16-20.43.30:530][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run8_left_Sprite.Run8_left_Sprite
+[2020.12.16-20.43.30:530][227]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_1/Run9_left_Sprite.Run9_left_Sprite
+[2020.12.16-20.43.30:540][228]Cmd: QUIT_EDITOR
+[2020.12.16-20.43.30:540][228]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.12.16-20.43.30:551][228]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.12.16-20.43.30:559][228]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2020.12.16-20.43.30:559][228]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2020.12.16-20.43.30:560][228]LogAudio: Display: Audio Device unregistered from world 'Level_00'.
+[2020.12.16-20.43.30:564][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.16-20.43.30:567][228]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.16-20.43.30:664][228]LogAudio: Display: Audio Device Manager Shutdown
+[2020.12.16-20.43.30:665][228]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.16-20.43.30:697][228]LogExit: Preparing to exit.
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0A000] Windows
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0A100] Default__DeviceProfile
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8DF00] WindowsNoEditor
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E09400] WindowsServer
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8EA00] WindowsClient
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E08A00] IOS
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8F400] iPadAir
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0AB00] iPadAir2
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3A500] IPadPro
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3A600] iPadAir3
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8D400] iPadAir4
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3BE00] iPadMini2
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8EE00] iPadMini3
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3A300] iPadMini4
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8CD00] iPadMini5
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D55E00] iPhone6
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D55F00] iPodTouch6
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D39D00] iPhone7
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D39C00] iPodTouch7
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D54E00] iPhone5S
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D39800] iPhone6Plus
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D55200] iPhone6S
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D38B00] iPhone6SPlus
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D57400] iPhone7Plus
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3B000] iPhoneSE
+[2020.12.16-20.43.31:494][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D56000] iPhone8
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D39A00] iPhone8Plus
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D57C00] iPhoneX
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D39900] iPhoneXS
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D54500] iPhoneXSMax
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3A900] iPhoneXR
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D57000] iPhone11
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3AA00] iPhone11Pro
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D56200] iPhone11ProMax
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3AB00] iPhoneSE2
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D57E00] iPhone12Mini
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D38D00] iPhone12
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D55900] iPhone12Pro
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D39700] iPhone12ProMax
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D55B00] iPadPro105
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3A200] iPadPro129
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D57100] iPadPro97
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3BD00] iPadPro2_129
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E09E00] iPad5
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3BA00] iPad6
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E08800] iPad7
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3AD00] iPad8
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0A400] iPadPro11
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3A700] iPadPro2_11
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E08400] iPadPro3_129
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D39200] iPadPro4_129
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0AA00] AppleTV
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D38500] AppleTV4K
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E08C00] TVOS
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3AC00] Mac
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E08700] MacClient
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D38700] MacNoEditor
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E09C00] MacServer
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3B600] Linux
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E09700] LinuxNoEditor
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D38A00] LinuxAArch64NoEditor
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0AD00] LinuxClient
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3B800] LinuxAArch64Client
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0A800] LinuxServer
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D39B00] LinuxAArch64Server
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0A300] Android
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3A800] Android_Low
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E08500] Android_Mid
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D38800] Android_High
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0AF00] Android_Default
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3B700] Android_Adreno4xx
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E09200] Android_Adreno5xx_Low
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D38200] Android_Adreno5xx
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E08600] Android_Adreno6xx
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3BC00] Android_Adreno6xx_Vulkan
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E08200] Android_Mali_T6xx
+[2020.12.16-20.43.31:495][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D38900] Android_Mali_T7xx
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E0A600] Android_Mali_T8xx
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3A400] Android_Mali_G71
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E08300] Android_Mali_G72
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D3B100] Android_Mali_G72_Vulkan
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0E09900] Android_Mali_G76
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D56300] Android_Mali_G76_Vulkan
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8FD00] Android_Mali_G77
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D55600] Android_Mali_G77_Vulkan
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8FB00] Android_Vulkan_SM5
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D55400] Android_PowerVR_G6xxx
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8FA00] Android_PowerVR_GT7xxx
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D56F00] Android_PowerVR_GE8xxx
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8CE00] Android_PowerVR_GM9xxx
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D54100] Android_PowerVR_GM9xxx_Vulkan
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8DD00] Android_TegraK1
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D55500] Android_Unknown_Vulkan
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8D800] Lumin
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D57A00] Lumin_Desktop
+[2020.12.16-20.43.31:496][228]LogDeviceProfile: Device profile begin destroy: [00000251C0D8DA00] HoloLens
+[2020.12.16-20.43.31:809][228]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.16-20.43.31:856][228]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.16-20.43.31:858][228]LogExit: Editor shut down
+[2020.12.16-20.43.31:865][228]LogExit: Transaction tracking system shut down
+[2020.12.16-20.43.32:549][228]LogExit: Object subsystem successfully closed.
+[2020.12.16-20.43.32:593][228]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.16-20.43.32:730][228]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (814)
+[2020.12.16-20.43.32:730][228]LogModuleManager: Shutting down and abandoning module SceneOutliner (812)
+[2020.12.16-20.43.32:731][228]LogModuleManager: Shutting down and abandoning module AddContentDialog (810)
+[2020.12.16-20.43.32:735][228]LogModuleManager: Shutting down and abandoning module WidgetCarousel (809)
+[2020.12.16-20.43.32:735][228]LogModuleManager: Shutting down and abandoning module EditorWidgets (806)
+[2020.12.16-20.43.32:735][228]LogModuleManager: Shutting down and abandoning module StatsViewer (804)
+[2020.12.16-20.43.32:738][228]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (802)
+[2020.12.16-20.43.32:738][228]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (800)
+[2020.12.16-20.43.32:739][228]LogModuleManager: Shutting down and abandoning module AutomationWorker (798)
+[2020.12.16-20.43.32:739][228]LogModuleManager: Shutting down and abandoning module SteamVREditor (796)
+[2020.12.16-20.43.32:739][228]LogModuleManager: Shutting down and abandoning module OculusMR (794)
+[2020.12.16-20.43.32:739][228]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (792)
+[2020.12.16-20.43.32:762][228]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (790)
+[2020.12.16-20.43.32:763][228]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (788)
+[2020.12.16-20.43.32:763][228]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (786)
+[2020.12.16-20.43.32:768][228]LogModuleManager: Shutting down and abandoning module GooglePADEditor (784)
+[2020.12.16-20.43.32:768][228]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (782)
+[2020.12.16-20.43.32:769][228]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (780)
+[2020.12.16-20.43.32:769][228]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (778)
+[2020.12.16-20.43.32:769][228]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (776)
+[2020.12.16-20.43.32:769][228]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (774)
+[2020.12.16-20.43.32:769][228]LogModuleManager: Shutting down and abandoning module WebMMedia (772)
+[2020.12.16-20.43.32:770][228]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (770)
+[2020.12.16-20.43.32:773][228]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (768)
+[2020.12.16-20.43.32:775][228]LogModuleManager: Shutting down and abandoning module SequenceRecorder (767)
+[2020.12.16-20.43.32:776][228]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (764)
+[2020.12.16-20.43.32:776][228]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (762)
+[2020.12.16-20.43.32:776][228]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (760)
+[2020.12.16-20.43.32:776][228]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (758)
+[2020.12.16-20.43.32:776][228]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (756)
+[2020.12.16-20.43.32:776][228]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (754)
+[2020.12.16-20.43.32:776][228]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (752)
+[2020.12.16-20.43.32:776][228]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (750)
+[2020.12.16-20.43.32:777][228]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (748)
+[2020.12.16-20.43.32:777][228]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (746)
+[2020.12.16-20.43.32:777][228]LogModuleManager: Shutting down and abandoning module PlanarCut (744)
+[2020.12.16-20.43.32:778][228]LogModuleManager: Shutting down and abandoning module CharacterAI (742)
+[2020.12.16-20.43.32:778][228]LogModuleManager: Shutting down and abandoning module TextureAlignMode (740)
+[2020.12.16-20.43.32:778][228]LogModuleManager: Shutting down and abandoning module BspMode (738)
+[2020.12.16-20.43.32:778][228]LogModuleManager: Shutting down and abandoning module GeometryMode (736)
+[2020.12.16-20.43.32:779][228]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (734)
+[2020.12.16-20.43.32:780][228]LogModuleManager: Shutting down and abandoning module SmartSnapping (732)
+[2020.12.16-20.43.32:780][228]LogModuleManager: Shutting down and abandoning module SessionServices (730)
+[2020.12.16-20.43.32:780][228]LogModuleManager: Shutting down and abandoning module MeshPaint (728)
+[2020.12.16-20.43.32:782][228]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (726)
+[2020.12.16-20.43.32:783][228]LogModuleManager: Shutting down and abandoning module FoliageEdit (724)
+[2020.12.16-20.43.32:785][228]LogModuleManager: Shutting down and abandoning module LandscapeEditor (722)
+[2020.12.16-20.43.32:788][228]LogModuleManager: Shutting down and abandoning module MeshPaintMode (720)
+[2020.12.16-20.43.32:788][228]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (718)
+[2020.12.16-20.43.32:788][228]LogModuleManager: Shutting down and abandoning module ActorPickerMode (716)
+[2020.12.16-20.43.32:788][228]LogModuleManager: Shutting down and abandoning module PlacementMode (714)
+[2020.12.16-20.43.32:789][228]LogModuleManager: Shutting down and abandoning module ViewportSnapping (712)
+[2020.12.16-20.43.32:789][228]LogModuleManager: Shutting down and abandoning module ViewportInteraction (710)
+[2020.12.16-20.43.32:789][228]LogModuleManager: Shutting down and abandoning module ClothPainter (708)
+[2020.12.16-20.43.32:791][228]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (707)
+[2020.12.16-20.43.32:792][228]LogModuleManager: Shutting down and abandoning module LogVisualizer (704)
+[2020.12.16-20.43.32:795][228]LogModuleManager: Shutting down and abandoning module IntroTutorials (702)
+[2020.12.16-20.43.32:796][228]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (701)
+[2020.12.16-20.43.32:798][228]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (698)
+[2020.12.16-20.43.32:798][228]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (696)
+[2020.12.16-20.43.32:798][228]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (694)
+[2020.12.16-20.43.32:799][228]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (693)
+[2020.12.16-20.43.33:719][228]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (690)
+[2020.12.16-20.43.33:719][228]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (688)
+[2020.12.16-20.43.33:719][228]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (686)
+[2020.12.16-20.43.33:719][228]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (684)
+[2020.12.16-20.43.33:719][228]LogModuleManager: Shutting down and abandoning module TraceInsights (682)
+[2020.12.16-20.43.33:739][228]MemoryProfiler: Shutdown
+[2020.12.16-20.43.33:740][228]NetworkingProfiler: Shutdown
+[2020.12.16-20.43.33:740][228]LoadingProfiler: Shutdown
+[2020.12.16-20.43.33:742][228]TimingProfiler: Shutdown
+[2020.12.16-20.43.33:764][228]LogModuleManager: Shutting down and abandoning module TraceServices (681)
+[2020.12.16-20.43.33:766][228]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (678)
+[2020.12.16-20.43.33:766][228]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (676)
+[2020.12.16-20.43.33:766][228]LogModuleManager: Shutting down and abandoning module InputBindingEditor (674)
+[2020.12.16-20.43.33:767][228]LogModuleManager: Shutting down and abandoning module MergeActors (672)
+[2020.12.16-20.43.33:768][228]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (670)
+[2020.12.16-20.43.33:768][228]LogModuleManager: Shutting down and abandoning module LocalizationService (669)
+[2020.12.16-20.43.33:769][228]LogModuleManager: Shutting down and abandoning module HardwareTargeting (666)
+[2020.12.16-20.43.33:769][228]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (664)
+[2020.12.16-20.43.33:770][228]LogModuleManager: Shutting down and abandoning module UndoHistory (662)
+[2020.12.16-20.43.33:771][228]LogModuleManager: Shutting down and abandoning module XmlParser (660)
+[2020.12.16-20.43.33:771][228]LogModuleManager: Shutting down and abandoning module Blutility (658)
+[2020.12.16-20.43.33:771][228]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (656)
+[2020.12.16-20.43.33:771][228]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (655)
+[2020.12.16-20.43.33:772][228]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (652)
+[2020.12.16-20.43.33:772][228]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (651)
+[2020.12.16-20.43.33:773][228]LogModuleManager: Shutting down and abandoning module SettingsEditor (648)
+[2020.12.16-20.43.33:774][228]LogModuleManager: Shutting down and abandoning module ProjectLauncher (646)
+[2020.12.16-20.43.33:774][228]LogModuleManager: Shutting down and abandoning module SessionFrontend (644)
+[2020.12.16-20.43.33:775][228]LogModuleManager: Shutting down and abandoning module ProfilerClient (642)
+[2020.12.16-20.43.33:776][228]LogModuleManager: Shutting down and abandoning module DeviceManager (640)
+[2020.12.16-20.43.33:776][228]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (639)
+[2020.12.16-20.43.33:809][228]LogModuleManager: Shutting down and abandoning module AutomationController (636)
+[2020.12.16-20.43.33:811][228]LogModuleManager: Shutting down and abandoning module AutomationWindow (634)
+[2020.12.16-20.43.33:811][228]LogModuleManager: Shutting down and abandoning module Layers (632)
+[2020.12.16-20.43.33:814][228]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (630)
+[2020.12.16-20.43.33:814][228]LogModuleManager: Shutting down and abandoning module DetailCustomizations (628)
+[2020.12.16-20.43.33:815][228]LogModuleManager: Shutting down and abandoning module PackagesDialog (626)
+[2020.12.16-20.43.33:815][228]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (624)
+[2020.12.16-20.43.33:819][228]LogModuleManager: Shutting down and abandoning module Persona (622)
+[2020.12.16-20.43.33:821][228]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (621)
+[2020.12.16-20.43.33:822][228]LogModuleManager: Shutting down and abandoning module AnimGraph (619)
+[2020.12.16-20.43.33:823][228]LogModuleManager: Shutting down and abandoning module Kismet (616)
+[2020.12.16-20.43.33:825][228]LogModuleManager: Shutting down and abandoning module KismetWidgets (615)
+[2020.12.16-20.43.33:825][228]LogModuleManager: Shutting down and abandoning module GraphEditor (612)
+[2020.12.16-20.43.33:828][228]LogModuleManager: Shutting down and abandoning module StructViewer (610)
+[2020.12.16-20.43.33:828][228]LogModuleManager: Shutting down and abandoning module ClassViewer (608)
+[2020.12.16-20.43.33:828][228]LogModuleManager: Shutting down and abandoning module Toolbox (606)
+[2020.12.16-20.43.33:828][228]LogModuleManager: Shutting down and abandoning module ModuleUI (604)
+[2020.12.16-20.43.33:829][228]LogModuleManager: Shutting down and abandoning module OutputLog (602)
+[2020.12.16-20.43.33:832][228]LogModuleManager: Shutting down and abandoning module GammaUI (600)
+[2020.12.16-20.43.33:833][228]LogModuleManager: Shutting down and abandoning module Documentation (598)
+[2020.12.16-20.43.33:833][228]LogModuleManager: Shutting down and abandoning module LiveCoding (596)
+[2020.12.16-20.43.33:834][228]LogModuleManager: Shutting down and abandoning module LevelSequence (594)
+[2020.12.16-20.43.33:834][228]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (592)
+[2020.12.16-20.43.33:834][228]LogModuleManager: Shutting down and abandoning module MovieScene (590)
+[2020.12.16-20.43.33:836][228]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (588)
+[2020.12.16-20.43.33:836][228]LogModuleManager: Shutting down and abandoning module LauncherPlatform (586)
+[2020.12.16-20.43.33:836][228]LogModuleManager: Shutting down and abandoning module AnalyticsET (584)
+[2020.12.16-20.43.33:836][228]LogModuleManager: Shutting down and abandoning module PortalServices (582)
+[2020.12.16-20.43.33:836][228]LogModuleManager: Shutting down and abandoning module PortalRpc (580)
+[2020.12.16-20.43.33:836][228]LogModuleManager: Shutting down and abandoning module MessagingRpc (578)
+[2020.12.16-20.43.33:836][228]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (576)
+[2020.12.16-20.43.33:836][228]LogModuleManager: Shutting down and abandoning module AudioMixerCore (575)
+[2020.12.16-20.43.33:836][228]LogModuleManager: Shutting down and abandoning module AIModule (572)
+[2020.12.16-20.43.33:837][228]LogModuleManager: Shutting down and abandoning module GameplayDebugger (571)
+[2020.12.16-20.43.33:839][228]LogModuleManager: Shutting down and abandoning module AITestSuite (569)
+[2020.12.16-20.43.33:839][228]LogModuleManager: Shutting down and abandoning module NavigationSystem (567)
+[2020.12.16-20.43.33:840][228]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (564)
+[2020.12.16-20.43.33:840][228]LogModuleManager: Shutting down and abandoning module ProfilerService (562)
+[2020.12.16-20.43.34:063][228]LogModuleManager: Shutting down and abandoning module TaskGraph (560)
+[2020.12.16-20.43.34:065][228]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (558)
+[2020.12.16-20.43.34:065][228]LogModuleManager: Shutting down and abandoning module OculusEditor (556)
+[2020.12.16-20.43.34:065][228]LogModuleManager: Shutting down and abandoning module OculusInput (554)
+[2020.12.16-20.43.34:065][228]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (552)
+[2020.12.16-20.43.34:065][228]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (550)
+[2020.12.16-20.43.34:065][228]LogModuleManager: Shutting down and abandoning module CollectionManager (549)
+[2020.12.16-20.43.34:066][228]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2020.12.16-20.43.34:066][228]LogModuleManager: Shutting down and abandoning module ScreenshotTools (544)
+[2020.12.16-20.43.34:066][228]LogModuleManager: Shutting down and abandoning module SynthesisEditor (542)
+[2020.12.16-20.43.34:066][228]LogModuleManager: Shutting down and abandoning module Synthesis (540)
+[2020.12.16-20.43.34:067][228]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (538)
+[2020.12.16-20.43.34:068][228]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (536)
+[2020.12.16-20.43.34:068][228]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (534)
+[2020.12.16-20.43.34:068][228]LogModuleManager: Shutting down and abandoning module GooglePAD (532)
+[2020.12.16-20.43.34:068][228]LogModuleManager: Shutting down and abandoning module EditableMesh (530)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (528)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module CableComponent (526)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module AudioCapture (524)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (523)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module AssetTags (520)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (518)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (516)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module AppleImageUtils (514)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module AndroidPermission (512)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (510)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (508)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module MediaCompositing (506)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module ImgMedia (504)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (502)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (500)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (498)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (496)
+[2020.12.16-20.43.34:069][228]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (494)
+[2020.12.16-20.43.34:070][228]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (492)
+[2020.12.16-20.43.34:070][228]LogModuleManager: Shutting down and abandoning module MotoSynth (490)
+[2020.12.16-20.43.34:070][228]LogModuleManager: Shutting down and abandoning module MeshConversion (488)
+[2020.12.16-20.43.34:071][228]LogModuleManager: Shutting down and abandoning module DynamicMesh (486)
+[2020.12.16-20.43.34:071][228]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (484)
+[2020.12.16-20.43.34:072][228]LogModuleManager: Shutting down and abandoning module GeometricObjects (482)
+[2020.12.16-20.43.34:073][228]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (480)
+[2020.12.16-20.43.34:073][228]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (479)
+[2020.12.16-20.43.34:074][228]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (476)
+[2020.12.16-20.43.34:074][228]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (474)
+[2020.12.16-20.43.34:074][228]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (472)
+[2020.12.16-20.43.34:075][228]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (470)
+[2020.12.16-20.43.34:075][228]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (468)
+[2020.12.16-20.43.34:080][228]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (466)
+[2020.12.16-20.43.34:080][228]LogModuleManager: Shutting down and abandoning module ChaosNiagara (464)
+[2020.12.16-20.43.34:080][228]LogModuleManager: Shutting down and abandoning module FractureEditor (462)
+[2020.12.16-20.43.34:082][228]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (461)
+[2020.12.16-20.43.34:082][228]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (458)
+[2020.12.16-20.43.34:082][228]LogModuleManager: Shutting down and abandoning module BackChannel (456)
+[2020.12.16-20.43.34:083][228]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (454)
+[2020.12.16-20.43.34:083][228]LogModuleManager: Shutting down and abandoning module AutomationUtils (452)
+[2020.12.16-20.43.34:083][228]LogModuleManager: Shutting down and abandoning module AlembicImporter (450)
+[2020.12.16-20.43.34:083][228]LogModuleManager: Shutting down and abandoning module AlembicLibrary (449)
+[2020.12.16-20.43.34:084][228]LogModuleManager: Shutting down and abandoning module GeometryCache (448)
+[2020.12.16-20.43.34:084][228]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (447)
+[2020.12.16-20.43.34:084][228]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (442)
+[2020.12.16-20.43.34:084][228]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2020.12.16-20.43.34:084][228]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2020.12.16-20.43.34:084][228]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (436)
+[2020.12.16-20.43.34:085][228]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (434)
+[2020.12.16-20.43.34:085][228]LogModuleManager: Shutting down and abandoning module PluginBrowser (432)
+[2020.12.16-20.43.34:089][228]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (430)
+[2020.12.16-20.43.34:091][228]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (428)
+[2020.12.16-20.43.34:092][228]LogModuleManager: Shutting down and abandoning module CurveEditorTools (426)
+[2020.12.16-20.43.34:094][228]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (424)
+[2020.12.16-20.43.34:094][228]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (422)
+[2020.12.16-20.43.34:094][228]LogModuleManager: Shutting down and abandoning module UObjectPlugin (420)
+[2020.12.16-20.43.34:094][228]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (418)
+[2020.12.16-20.43.34:097][228]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (416)
+[2020.12.16-20.43.34:097][228]LogModuleManager: Shutting down and abandoning module PluginUtils (414)
+[2020.12.16-20.43.34:097][228]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (412)
+[2020.12.16-20.43.34:099][228]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (410)
+[2020.12.16-20.43.34:101][228]LogModuleManager: Shutting down and abandoning module GitSourceControl (408)
+[2020.12.16-20.43.34:102][228]LogModuleManager: Shutting down and abandoning module SourceControl (407)
+[2020.12.16-20.43.34:103][228]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (404)
+[2020.12.16-20.43.34:103][228]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (402)
+[2020.12.16-20.43.34:103][228]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (400)
+[2020.12.16-20.43.34:103][228]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (398)
+[2020.12.16-20.43.34:103][228]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (396)
+[2020.12.16-20.43.34:103][228]LogModuleManager: Shutting down and abandoning module Paper2DEditor (394)
+[2020.12.16-20.43.34:107][228]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (392)
+[2020.12.16-20.43.34:108][228]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (390)
+[2020.12.16-20.43.34:110][228]LogModuleManager: Shutting down and abandoning module ActorSequence (388)
+[2020.12.16-20.43.34:110][228]LogModuleManager: Shutting down and abandoning module SoundFields (386)
+[2020.12.16-20.43.34:110][228]LogModuleManager: Shutting down and abandoning module SignificanceManager (384)
+[2020.12.16-20.43.34:110][228]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (382)
+[2020.12.16-20.43.34:110][228]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (380)
+[2020.12.16-20.43.34:111][228]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (378)
+[2020.12.16-20.43.34:111][228]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (374)
+[2020.12.16-20.43.34:111][228]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (372)
+[2020.12.16-20.43.34:111][228]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (370)
+[2020.12.16-20.43.34:111][228]LogModuleManager: Shutting down and abandoning module UdpMessaging (368)
+[2020.12.16-20.43.34:213][228]LogModuleManager: Shutting down and abandoning module TcpMessaging (366)
+[2020.12.16-20.43.34:315][228]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (364)
+[2020.12.16-20.43.34:315][228]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (362)
+[2020.12.16-20.43.34:315][228]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (360)
+[2020.12.16-20.43.34:315][228]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (358)
+[2020.12.16-20.43.34:316][228]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (356)
+[2020.12.16-20.43.34:318][228]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.12.16-20.43.34:318][228]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (354)
+[2020.12.16-20.43.34:318][228]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (352)
+[2020.12.16-20.43.34:318][228]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (350)
+[2020.12.16-20.43.34:319][228]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (348)
+[2020.12.16-20.43.34:319][228]LogModuleManager: Shutting down and abandoning module MagicLeapController (346)
+[2020.12.16-20.43.34:319][228]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.16-20.43.34:320][228]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (344)
+[2020.12.16-20.43.34:320][228]LogModuleManager: Shutting down and abandoning module MagicLeapAR (342)
+[2020.12.16-20.43.34:320][228]LogModuleManager: Shutting down and abandoning module AugmentedReality (341)
+[2020.12.16-20.43.34:321][228]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (338)
+[2020.12.16-20.43.34:321][228]LogModuleManager: Shutting down and abandoning module Niagara (336)
+[2020.12.16-20.43.34:321][228]LogModuleManager: Shutting down and abandoning module SignalProcessing (335)
+[2020.12.16-20.43.34:321][228]LogModuleManager: Shutting down and abandoning module NiagaraEditor (333)
+[2020.12.16-20.43.34:325][228]LogModuleManager: Shutting down and abandoning module NiagaraCore (330)
+[2020.12.16-20.43.34:325][228]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (328)
+[2020.12.16-20.43.34:325][228]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (326)
+[2020.12.16-20.43.34:325][228]LogModuleManager: Shutting down and abandoning module FacialAnimation (324)
+[2020.12.16-20.43.34:325][228]LogModuleManager: Shutting down and abandoning module DataValidation (322)
+[2020.12.16-20.43.34:325][228]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (320)
+[2020.12.16-20.43.34:327][228]LogModuleManager: Shutting down and abandoning module LevelEditor (319)
+[2020.12.16-20.43.34:331][228]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (318)
+[2020.12.16-20.43.34:332][228]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (316)
+[2020.12.16-20.43.34:333][228]LogModuleManager: Shutting down and abandoning module MainFrame (314)
+[2020.12.16-20.43.34:333][228]LogModuleManager: Shutting down and abandoning module HotReload (313)
+[2020.12.16-20.43.34:335][228]LogModuleManager: Shutting down and abandoning module ToolMenus (309)
+[2020.12.16-20.43.34:335][228]LogModuleManager: Shutting down and abandoning module ContentBrowser (307)
+[2020.12.16-20.43.34:335][228]LogModuleManager: Shutting down and abandoning module ContentBrowserData (306)
+[2020.12.16-20.43.34:335][228]LogModuleManager: Shutting down and abandoning module TreeMap (303)
+[2020.12.16-20.43.34:335][228]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (300)
+[2020.12.16-20.43.34:335][228]LogModuleManager: Shutting down and abandoning module AnimationSharing (298)
+[2020.12.16-20.43.34:335][228]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2020.12.16-20.43.34:335][228]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (294)
+[2020.12.16-20.43.34:337][228]LogModuleManager: Shutting down and abandoning module Paper2D (292)
+[2020.12.16-20.43.34:337][228]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (290)
+[2020.12.16-20.43.34:345][228]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (288)
+[2020.12.16-20.43.34:346][228]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (286)
+[2020.12.16-20.43.34:346][228]LogModuleManager: Shutting down and abandoning module PacketHandler (284)
+[2020.12.16-20.43.34:346][228]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (282)
+[2020.12.16-20.43.34:346][228]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (280)
+[2020.12.16-20.43.34:349][228]LogModuleManager: Shutting down and abandoning module MediaAssets (278)
+[2020.12.16-20.43.34:349][228]LogModuleManager: Shutting down and abandoning module Overlay (276)
+[2020.12.16-20.43.34:349][228]LogModuleManager: Shutting down and abandoning module OverlayEditor (275)
+[2020.12.16-20.43.34:349][228]LogModuleManager: Shutting down and abandoning module VREditor (272)
+[2020.12.16-20.43.34:350][228]LogModuleManager: Shutting down and abandoning module StringTableEditor (270)
+[2020.12.16-20.43.34:352][228]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (268)
+[2020.12.16-20.43.34:352][228]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (266)
+[2020.12.16-20.43.34:354][228]LogModuleManager: Shutting down and abandoning module FunctionalTesting (264)
+[2020.12.16-20.43.34:354][228]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (262)
+[2020.12.16-20.43.34:357][228]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (261)
+[2020.12.16-20.43.34:357][228]LogModuleManager: Shutting down and abandoning module UMG (258)
+[2020.12.16-20.43.34:359][228]LogModuleManager: Shutting down and abandoning module UMGEditor (257)
+[2020.12.16-20.43.34:360][228]LogModuleManager: Shutting down and abandoning module MessageLog (255)
+[2020.12.16-20.43.34:360][228]LogModuleManager: Shutting down and abandoning module SlateReflector (250)
+[2020.12.16-20.43.34:368][228]LogModuleManager: Shutting down and abandoning module Slate (248)
+[2020.12.16-20.43.34:368][228]LogModuleManager: Shutting down and abandoning module SlateCore (246)
+[2020.12.16-20.43.34:369][228]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (244)
+[2020.12.16-20.43.34:369][228]LogModuleManager: Shutting down and abandoning module UnrealEd (242)
+[2020.12.16-20.43.34:369][228]LogModuleManager: Shutting down and abandoning module MRMesh (240)
+[2020.12.16-20.43.34:370][228]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (238)
+[2020.12.16-20.43.34:370][228]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (236)
+[2020.12.16-20.43.34:370][228]LogModuleManager: Shutting down and abandoning module XAudio2 (234)
+[2020.12.16-20.43.34:370][228]LogModuleManager: Shutting down and abandoning module Networking (232)
+[2020.12.16-20.43.34:370][228]LogModuleManager: Shutting down and abandoning module Core (230)
+[2020.12.16-20.43.34:370][228]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2020.12.16-20.43.34:371][228]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2020.12.16-20.43.34:374][228]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2020.12.16-20.43.34:376][228]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2020.12.16-20.43.34:379][228]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2020.12.16-20.43.34:379][228]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2020.12.16-20.43.34:380][228]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2020.12.16-20.43.34:381][228]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2020.12.16-20.43.34:382][228]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2020.12.16-20.43.34:382][228]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2020.12.16-20.43.34:383][228]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2020.12.16-20.43.34:384][228]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2020.12.16-20.43.34:388][228]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2020.12.16-20.43.34:388][228]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2020.12.16-20.43.34:389][228]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2020.12.16-20.43.34:389][228]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2020.12.16-20.43.34:389][228]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2020.12.16-20.43.34:390][228]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2020.12.16-20.43.34:392][228]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2020.12.16-20.43.34:393][228]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2020.12.16-20.43.34:394][228]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2020.12.16-20.43.34:395][228]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2020.12.16-20.43.34:395][228]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2020.12.16-20.43.34:395][228]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2020.12.16-20.43.34:395][228]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2020.12.16-20.43.34:395][228]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2020.12.16-20.43.34:395][228]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2020.12.16-20.43.34:396][228]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2020.12.16-20.43.34:396][228]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2020.12.16-20.43.34:396][228]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2020.12.16-20.43.34:396][228]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2020.12.16-20.43.34:396][228]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2020.12.16-20.43.34:397][228]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2020.12.16-20.43.34:397][228]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2020.12.16-20.43.34:397][228]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2020.12.16-20.43.34:397][228]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2020.12.16-20.43.34:397][228]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2020.12.16-20.43.34:405][228]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2020.12.16-20.43.34:405][228]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2020.12.16-20.43.34:405][228]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2020.12.16-20.43.34:405][228]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2020.12.16-20.43.34:405][228]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2020.12.16-20.43.34:420][228]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2020.12.16-20.43.34:420][228]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2020.12.16-20.43.34:420][228]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2020.12.16-20.43.34:420][228]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2020.12.16-20.43.34:420][228]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2020.12.16-20.43.34:420][228]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2020.12.16-20.43.34:420][228]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2020.12.16-20.43.34:420][228]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2020.12.16-20.43.34:421][228]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2020.12.16-20.43.34:426][228]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2020.12.16-20.43.34:450][228]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2020.12.16-20.43.34:450][228]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2020.12.16-20.43.34:450][228]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2020.12.16-20.43.34:450][228]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2020.12.16-20.43.34:451][228]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2020.12.16-20.43.34:451][228]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2020.12.16-20.43.34:452][228]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2020.12.16-20.43.34:452][228]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2020.12.16-20.43.34:452][228]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2020.12.16-20.43.34:453][228]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2020.12.16-20.43.34:453][228]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2020.12.16-20.43.34:453][228]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2020.12.16-20.43.34:454][228]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.16-20.43.34:454][228]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2020.12.16-20.43.34:456][228]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2020.12.16-20.43.34:456][228]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2020.12.16-20.43.34:457][228]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (92)
+[2020.12.16-20.43.34:457][228]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2020.12.16-20.43.34:457][228]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2020.12.16-20.43.34:465][228]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2020.12.16-20.43.34:466][228]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2020.12.16-20.43.34:480][228]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2020.12.16-20.43.34:480][228]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.12.16-20.43.34:480][228]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1BC600E0-4E1D-AE52-5A67-92ADBA3B606B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.0-14830424%2B%2B%2BUE4%2BRelease-4.26&UserID=33fbd530418dee41165e0ca989b47b0d%7C556970ce71024ab2ab69cea92d20e4cf%7C82385e5f-bd67-48a3-a775-104294cd86ce&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.12.16-20.43.34:480][228]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2020.12.16-20.43.34:515][228]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2020.12.16-20.43.34:517][228]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2020.12.16-20.43.34:520][228]LogModuleManager: Shutting down and abandoning module Media (71)
+[2020.12.16-20.43.34:522][228]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2020.12.16-20.43.34:522][228]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2020.12.16-20.43.34:523][228]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2020.12.16-20.43.34:524][228]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2020.12.16-20.43.34:524][228]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2020.12.16-20.43.34:525][228]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2020.12.16-20.43.34:525][228]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2020.12.16-20.43.34:525][228]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.12.16-20.43.34:526][228]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.12.16-20.43.34:527][228]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.12.16-20.43.34:527][228]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.12.16-20.43.34:529][228]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2020.12.16-20.43.34:530][228]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2020.12.16-20.43.34:530][228]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2020.12.16-20.43.34:530][228]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2020.12.16-20.43.34:530][228]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.16-20.43.34:532][228]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2020.12.16-20.43.34:533][228]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.12.16-20.43.34:535][228]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.16-20.43.34:535][228]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.16-20.43.34:535][228]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.16-20.43.34:535][228]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.16-20.43.34:537][228]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.16-20.43.34:538][228]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.16-20.43.34:538][228]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.16-20.43.34:538][228]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.16-20.43.34:538][228]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.16-20.43.34:539][228]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.16-20.43.34:539][228]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.16-20.43.34:539][228]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.16-20.43.34:539][228]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.16-20.43.34:539][228]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.16-20.43.34:540][228]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.16-20.43.34:540][228]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.16-20.43.34:541][228]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.12.16-20.43.34:543][228]LogD3D11RHI: Shutdown
+[2020.12.16-20.43.34:543][228]LogD3D11RHI: CleanupD3DDevice
+[2020.12.16-20.43.34:565][228]LogExit: Exiting.
+[2020.12.16-20.43.34:691][228]Log file closed, 12/16/20 21:43:34
