@@ -1065,3 +1065,836 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.19-12.58.52:607][246]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.19-12.58.52:608][246]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TheGreatEscape/Maps/Level_00_BuiltData.Level_00_BuiltData
 [2020.12.19-12.58.52:608][246]LogContentValidation: Display: Validating World /Game/TheGreatEscape/Maps/Level_00.Level_00
+[2020.12.19-13.19.15:577][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack2.png)
+[2020.12.19-13.19.15:586][254]LogTexture: Display: Building textures: Attack2 (BGRA8, 243X352)
+[2020.12.19-13.19.15:599][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack3.png)
+[2020.12.19-13.19.15:602][254]LogTexture: Display: Building textures: Attack3 (BGRA8, 217X350)
+[2020.12.19-13.19.15:612][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack4.png)
+[2020.12.19-13.19.15:615][254]LogTexture: Display: Building textures: Attack4 (BGRA8, 216X333)
+[2020.12.19-13.19.15:624][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack5.png)
+[2020.12.19-13.19.15:627][254]LogTexture: Display: Building textures: Attack5 (BGRA8, 228X330)
+[2020.12.19-13.19.15:637][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack6.png)
+[2020.12.19-13.19.15:640][254]LogTexture: Display: Building textures: Attack6 (BGRA8, 189X353)
+[2020.12.19-13.19.15:650][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead1.png)
+[2020.12.19-13.19.15:653][254]LogTexture: Display: Building textures: Dead1 (BGRA8, 177X354)
+[2020.12.19-13.19.15:663][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead2.png)
+[2020.12.19-13.19.15:666][254]LogTexture: Display: Building textures: Dead2 (BGRA8, 224X341)
+[2020.12.19-13.19.15:695][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead3.png)
+[2020.12.19-13.19.15:698][254]LogTexture: Display: Building textures: Dead3 (BGRA8, 307X317)
+[2020.12.19-13.19.15:708][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead4.png)
+[2020.12.19-13.19.15:711][254]LogTexture: Display: Building textures: Dead4 (BGRA8, 374X256)
+[2020.12.19-13.19.15:721][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead5.png)
+[2020.12.19-13.19.15:724][254]LogTexture: Display: Building textures: Dead5 (BGRA8, 358X232)
+[2020.12.19-13.19.15:734][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead6.png)
+[2020.12.19-13.19.15:737][254]LogTexture: Display: Building textures: Dead6 (BGRA8, 393X142)
+[2020.12.19-13.19.15:747][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead7.png)
+[2020.12.19-13.19.15:750][254]LogTexture: Display: Building textures: Dead7 (BGRA8, 432X147)
+[2020.12.19-13.19.15:759][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead8.png)
+[2020.12.19-13.19.15:763][254]LogTexture: Display: Building textures: Dead8 (BGRA8, 447X160)
+[2020.12.19-13.19.15:779][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt1.png)
+[2020.12.19-13.19.15:782][254]LogTexture: Display: Building textures: Hurt1 (BGRA8, 167X368)
+[2020.12.19-13.19.15:791][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt2.png)
+[2020.12.19-13.19.15:794][254]LogTexture: Display: Building textures: Hurt2 (BGRA8, 181X363)
+[2020.12.19-13.19.15:803][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt3.png)
+[2020.12.19-13.19.15:806][254]LogTexture: Display: Building textures: Hurt3 (BGRA8, 222X308)
+[2020.12.19-13.19.15:815][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt4.png)
+[2020.12.19-13.19.15:818][254]LogTexture: Display: Building textures: Hurt4 (BGRA8, 223X314)
+[2020.12.19-13.19.15:827][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt5.png)
+[2020.12.19-13.19.15:830][254]LogTexture: Display: Building textures: Hurt5 (BGRA8, 172X359)
+[2020.12.19-13.19.15:838][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Idle1.png)
+[2020.12.19-13.19.15:842][254]LogTexture: Display: Building textures: Idle1 (BGRA8, 207X364)
+[2020.12.19-13.19.15:851][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Idle2.png)
+[2020.12.19-13.19.15:854][254]LogTexture: Display: Building textures: Idle2 (BGRA8, 210X363)
+[2020.12.19-13.19.15:864][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Idle3.png)
+[2020.12.19-13.19.15:867][254]LogTexture: Display: Building textures: Idle3 (BGRA8, 215X364)
+[2020.12.19-13.19.15:876][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Idle4.png)
+[2020.12.19-13.19.15:879][254]LogTexture: Display: Building textures: Idle4 (BGRA8, 219X367)
+[2020.12.19-13.19.15:889][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump1.png)
+[2020.12.19-13.19.15:892][254]LogTexture: Display: Building textures: Jump1 (BGRA8, 174X355)
+[2020.12.19-13.19.15:900][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump2.png)
+[2020.12.19-13.19.15:903][254]LogTexture: Display: Building textures: Jump2 (BGRA8, 206X293)
+[2020.12.19-13.19.15:911][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump3.png)
+[2020.12.19-13.19.15:914][254]LogTexture: Display: Building textures: Jump3 (AutoDXT, 196X396)
+[2020.12.19-13.19.16:018][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump4.png)
+[2020.12.19-13.19.16:022][254]LogTexture: Display: Building textures: Jump4 (BGRA8, 205X394)
+[2020.12.19-13.19.16:031][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump5.png)
+[2020.12.19-13.19.16:035][254]LogTexture: Display: Building textures: Jump5 (BGRA8, 189X431)
+[2020.12.19-13.19.16:045][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump6.png)
+[2020.12.19-13.19.16:048][254]LogTexture: Display: Building textures: Jump6 (BGRA8, 175X369)
+[2020.12.19-13.19.16:058][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump7.png)
+[2020.12.19-13.19.16:061][254]LogTexture: Display: Building textures: Jump7 (BGRA8, 184X345)
+[2020.12.19-13.19.16:070][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run1.png)
+[2020.12.19-13.19.16:073][254]LogTexture: Display: Building textures: Run1 (BGRA8, 162X365)
+[2020.12.19-13.19.16:082][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run2.png)
+[2020.12.19-13.19.16:085][254]LogTexture: Display: Building textures: Run2 (BGRA8, 204X369)
+[2020.12.19-13.19.16:095][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run3.png)
+[2020.12.19-13.19.16:098][254]LogTexture: Display: Building textures: Run3 (BGRA8, 220X358)
+[2020.12.19-13.19.16:107][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run4.png)
+[2020.12.19-13.19.16:110][254]LogTexture: Display: Building textures: Run4 (BGRA8, 239X358)
+[2020.12.19-13.19.16:120][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run5.png)
+[2020.12.19-13.19.16:124][254]LogTexture: Display: Building textures: Run5 (BGRA8, 235X363)
+[2020.12.19-13.19.16:134][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run6.png)
+[2020.12.19-13.19.16:137][254]LogTexture: Display: Building textures: Run6 (AutoDXT, 296X368)
+[2020.12.19-13.19.16:253][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run7.png)
+[2020.12.19-13.19.16:257][254]LogTexture: Display: Building textures: Run7 (BGRA8, 333X360)
+[2020.12.19-13.19.16:268][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run8.png)
+[2020.12.19-13.19.16:271][254]LogTexture: Display: Building textures: Run8 (BGRA8, 294X329)
+[2020.12.19-13.19.16:294][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run9.png)
+[2020.12.19-13.19.16:297][254]LogTexture: Display: Building textures: Run9 (BGRA8, 246X366)
+[2020.12.19-13.19.16:306][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run10.png)
+[2020.12.19-13.19.16:310][254]LogTexture: Display: Building textures: Run10 (BGRA8, 274X352)
+[2020.12.19-13.19.16:322][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk1.png)
+[2020.12.19-13.19.16:325][254]LogTexture: Display: Building textures: Walk1 (BGRA8, 163X368)
+[2020.12.19-13.19.16:334][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk2.png)
+[2020.12.19-13.19.16:337][254]LogTexture: Display: Building textures: Walk2 (BGRA8, 200X370)
+[2020.12.19-13.19.16:346][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk3.png)
+[2020.12.19-13.19.16:349][254]LogTexture: Display: Building textures: Walk3 (BGRA8, 187X366)
+[2020.12.19-13.19.16:358][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk4.png)
+[2020.12.19-13.19.16:362][254]LogTexture: Display: Building textures: Walk4 (BGRA8, 180X363)
+[2020.12.19-13.19.16:370][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk5.png)
+[2020.12.19-13.19.16:372][254]LogTexture: Display: Building textures: Walk5 (BGRA8, 194X363)
+[2020.12.19-13.19.16:381][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk6.png)
+[2020.12.19-13.19.16:384][254]LogTexture: Display: Building textures: Walk6 (BGRA8, 195X378)
+[2020.12.19-13.19.16:393][254]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack1.png)
+[2020.12.19-13.19.16:396][254]LogTexture: Display: Building textures: Attack1 (BGRA8, 245X350)
+[2020.12.19-13.19.21:306][444]LogTexture: Display: Building textures: Jump3 (BGRA8, 196X396)
+[2020.12.19-13.19.21:318][444]LogTexture: Display: Building textures: Run6 (BGRA8, 296X368)
+[2020.12.19-13.19.33:265][ 42]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.19.47:376][812]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.19.53:727][187]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/Attack.Attack
+[2020.12.19-13.20.01:407][614]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack55477A114BF4617871A783A374B7F882.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/Attack.uasset'
+[2020.12.19-13.20.01:424][614]AssetCheck: New page: Asset Save: Attack
+[2020.12.19-13.20.01:424][614]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/Attack.Attack
+[2020.12.19-13.20.02:567][678]LogSlate: Window 'Attack' being destroyed
+[2020.12.19-13.20.02:581][678]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-13.20.02:581][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-13.20.05:368][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.19-13.20.07:968][836]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.19-13.20.08:050][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.12.19-13.20.23:419][699]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_Attack_right5A4F966B452B4FFD4139DEAA37D82635.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/A_Attack_right.uasset'
+[2020.12.19-13.20.23:517][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.19-13.20.23:589][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.12.19-13.20.23:594][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.20.23:616][699]AssetCheck: New page: Asset Save: A_Attack_right
+[2020.12.19-13.20.23:616][699]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/A_Attack_right.A_Attack_right
+[2020.12.19-13.20.41:366][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack151D20C6C4E7DE913C608C39498F7F70B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack1.uasset'
+[2020.12.19-13.20.41:382][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack1_Sprite9C62371B4DFFE73632A904AA6E65148A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack1_Sprite.uasset'
+[2020.12.19-13.20.41:406][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack2228FDBEA43B0D5CE76CB66A951B6B75C.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack2.uasset'
+[2020.12.19-13.20.41:421][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack2_Sprite7E418D4C420FD0CC2757F3BC41B08A32.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack2_Sprite.uasset'
+[2020.12.19-13.20.41:440][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack32F65454B4B9873755FD3EBAF6C216663.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack3.uasset'
+[2020.12.19-13.20.41:456][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack3_SpriteF51CADA843CA0A9F4D6EE59C5E304EE9.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack3_Sprite.uasset'
+[2020.12.19-13.20.41:474][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack498BA727B414DE8E05ADD3C9A46A7B1A9.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack4.uasset'
+[2020.12.19-13.20.41:489][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack4_Sprite3B92D2E240AE03BC0CD5618E86258ED3.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack4_Sprite.uasset'
+[2020.12.19-13.20.41:510][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack50A0BE5BA463AD40F2D6973A2864DE9EC.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack5.uasset'
+[2020.12.19-13.20.41:526][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack5_Sprite5DBAB5F546231D412E785DB0AD782D85.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack5_Sprite.uasset'
+[2020.12.19-13.20.41:545][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack6452758C84A27643B316632AC9572AA42.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack6.uasset'
+[2020.12.19-13.20.41:561][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack6_SpriteDA322ED54293726B7BA54392483BE281.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack6_Sprite.uasset'
+[2020.12.19-13.20.41:661][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.19-13.20.41:668][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.20.41:674][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.20.41:679][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.20.41:687][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.20.41:693][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.20.41:698][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.20.41:704][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.20.41:710][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.19-13.20.41:715][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.20.41:721][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.20.41:726][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.20.41:906][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.19-13.20.41:912][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.20.41:945][676]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_Attack_right0C1755A4473D9B932DED14BAE106171E.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/A_Attack_right.uasset'
+[2020.12.19-13.20.41:992][676]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack4.Attack4
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack3.Attack3
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack6.Attack6
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack5.Attack5
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack2.Attack2
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack1.Attack1
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack1_Sprite.Attack1_Sprite
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack2_Sprite.Attack2_Sprite
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack3_Sprite.Attack3_Sprite
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack4_Sprite.Attack4_Sprite
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack5_Sprite.Attack5_Sprite
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack6_Sprite.Attack6_Sprite
+[2020.12.19-13.20.41:992][676]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/A_Attack_right.A_Attack_right
+[2020.12.19-13.20.54:750][374]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.21.06:077][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead1109EDA024BCC3DB5881A44BD2483B6B3.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead1.uasset'
+[2020.12.19-13.21.06:096][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead1_Sprite20484FCC4A72E7A1ACBA0CAA7F2447A8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead1_Sprite.uasset'
+[2020.12.19-13.21.06:122][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead2327BA47946585F68693FADB0211EDFF1.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead2.uasset'
+[2020.12.19-13.21.06:138][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead2_SpriteDB55E553405A0809C1DA60BE4D1D6B97.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead2_Sprite.uasset'
+[2020.12.19-13.21.06:160][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead3E80F779143CE2E884B2696BE8E415D39.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead3.uasset'
+[2020.12.19-13.21.06:177][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead3_Sprite73B7EFC1458738DC61102CA168628429.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead3_Sprite.uasset'
+[2020.12.19-13.21.06:196][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead4C48813FB48344B1B4B9BCEB3EC3DAE17.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead4.uasset'
+[2020.12.19-13.21.06:213][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead4_SpriteF30028B9416F66E3023807A36C19F594.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead4_Sprite.uasset'
+[2020.12.19-13.21.06:234][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead51DF95427496031170D3274B90802A501.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead5.uasset'
+[2020.12.19-13.21.06:250][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead5_SpriteFD1FB1BB4F685979D2349183D57C8503.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead5_Sprite.uasset'
+[2020.12.19-13.21.06:265][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead6B78C4F1A48138410D11DB197BE8870BD.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead6.uasset'
+[2020.12.19-13.21.06:282][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead6_Sprite1B11A59C485D7EFDB572A6A68431ACED.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead6_Sprite.uasset'
+[2020.12.19-13.21.06:298][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead76C89514345A0B13E40E3379CA09BE5FF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead7.uasset'
+[2020.12.19-13.21.06:312][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead7_SpriteD38EEF6345C4F46D99D9E19373FBC777.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead7_Sprite.uasset'
+[2020.12.19-13.21.06:327][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead881148E00430C12C497A15B875FA3A2D6.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead8.uasset'
+[2020.12.19-13.21.06:344][ 25]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead8_Sprite686B8ED848D94479F430AEB8BF48DFAB.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead8_Sprite.uasset'
+[2020.12.19-13.21.06:469][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.19-13.21.06:476][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.06:482][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.21.06:487][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.21.06:493][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.21.06:498][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.06:503][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.06:509][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.21.06:514][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.21.06:520][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.21.06:525][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.06:530][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.21.06:536][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.21.06:541][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.19-13.21.06:547][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.21.06:552][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.06:565][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.19-13.21.06:570][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.21.06:604][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead3.Dead3
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead1.Dead1
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead2.Dead2
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead8.Dead8
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead7.Dead7
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead6.Dead6
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead5.Dead5
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead4.Dead4
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead1_Sprite.Dead1_Sprite
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead2_Sprite.Dead2_Sprite
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead3_Sprite.Dead3_Sprite
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead4_Sprite.Dead4_Sprite
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead5_Sprite.Dead5_Sprite
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead6_Sprite.Dead6_Sprite
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead7_Sprite.Dead7_Sprite
+[2020.12.19-13.21.06:604][ 25]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead8_Sprite.Dead8_Sprite
+[2020.12.19-13.21.15:960][542]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.21.28:093][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt189F4BD53499BD7F1867D088DCF8F352A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt1.uasset'
+[2020.12.19-13.21.28:110][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt1_Sprite2D59175D4C0D4D8406C4FD9DA093C637.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt1_Sprite.uasset'
+[2020.12.19-13.21.28:130][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt24B0D0FB34B9D441C59A90E8361E70E11.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt2.uasset'
+[2020.12.19-13.21.28:151][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt2_Sprite906F3D5840863DC36F10709B5AF23F03.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt2_Sprite.uasset'
+[2020.12.19-13.21.28:170][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt36D3E17E142F31B123716779CE5DDE580.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt3.uasset'
+[2020.12.19-13.21.28:188][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt3_Sprite1781EDE24F2309A7B15E4F9B8DF2D89A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt3_Sprite.uasset'
+[2020.12.19-13.21.28:206][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt44FE643B4465800A9CB9614BE1577137F.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt4.uasset'
+[2020.12.19-13.21.28:223][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt4_Sprite943C8DE745C0E060BE5F2182F164E37B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt4_Sprite.uasset'
+[2020.12.19-13.21.28:238][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt5CD368D904152E364C040A89D8DA88B8A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt5.uasset'
+[2020.12.19-13.21.28:254][234]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt5_Sprite38F9EC0B43ED97C8C7BAFA9C1DE37051.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt5_Sprite.uasset'
+[2020.12.19-13.21.28:368][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.19-13.21.28:374][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.28:380][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.21.28:386][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.21.28:392][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.28:397][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.28:403][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.21.28:408][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.21.28:413][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.21.28:419][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.28:431][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.19-13.21.28:436][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.21.28:468][234]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt5.Hurt5
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt4.Hurt4
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt3.Hurt3
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt2.Hurt2
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt1.Hurt1
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt1_Sprite.Hurt1_Sprite
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt2_Sprite.Hurt2_Sprite
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt3_Sprite.Hurt3_Sprite
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt4_Sprite.Hurt4_Sprite
+[2020.12.19-13.21.28:468][234]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt5_Sprite.Hurt5_Sprite
+[2020.12.19-13.21.37:220][720]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.21.49:060][377]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle18FA429734469433915233398FA6AC0F8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle1.uasset'
+[2020.12.19-13.21.49:076][377]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle1_SpriteA06F66D54503BE0889EA21A894885860.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle1_Sprite.uasset'
+[2020.12.19-13.21.49:097][377]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle29FFDC8F9404DCCC29C2581AA7E3274C5.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle2.uasset'
+[2020.12.19-13.21.49:114][377]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle2_SpriteFEFF206F4CF2242EAFCC538C8FF9F776.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle2_Sprite.uasset'
+[2020.12.19-13.21.49:134][377]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle3DABD8F5A450BF23B7BB8C8A1DAC0C282.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle3.uasset'
+[2020.12.19-13.21.49:149][377]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle3_SpriteB72371394B1640B857E31FA740E75942.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle3_Sprite.uasset'
+[2020.12.19-13.21.49:167][377]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle423CE1A8949F08098E9CDB4B331854E06.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle4.uasset'
+[2020.12.19-13.21.49:289][377]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle4_SpriteCB623E5F4F0986BE6AD9F3BDE2C30505.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle4_Sprite.uasset'
+[2020.12.19-13.21.49:390][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.19-13.21.49:396][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.19-13.21.49:402][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.19-13.21.49:407][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2020.12.19-13.21.49:413][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.19-13.21.49:420][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.21.49:426][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.21.49:432][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.21.49:447][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.19-13.21.49:452][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.21.49:486][377]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.21.49:486][377]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle4.Idle4
+[2020.12.19-13.21.49:486][377]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle3.Idle3
+[2020.12.19-13.21.49:486][377]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle2.Idle2
+[2020.12.19-13.21.49:486][377]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle1.Idle1
+[2020.12.19-13.21.49:486][377]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle1_Sprite.Idle1_Sprite
+[2020.12.19-13.21.49:486][377]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle2_Sprite.Idle2_Sprite
+[2020.12.19-13.21.49:486][377]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle3_Sprite.Idle3_Sprite
+[2020.12.19-13.21.49:486][377]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle4_Sprite.Idle4_Sprite
+[2020.12.19-13.22.05:866][275]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.22.20:667][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump1B75C7FC340DF49BC14320F92113403BF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump1.uasset'
+[2020.12.19-13.22.20:702][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump1_Sprite8A0BC2C64B211627A1FBF299A54FA0E1.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump1_Sprite.uasset'
+[2020.12.19-13.22.20:720][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump2918B602A4C9840EAFA9A14AD6CD0308F.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump2.uasset'
+[2020.12.19-13.22.20:737][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump2_SpriteF347B5B34078C2CEACEAE1A45897AF6B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump2_Sprite.uasset'
+[2020.12.19-13.22.20:851][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump3327B05244CE46F5EA916969C017495A9.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump3.uasset'
+[2020.12.19-13.22.20:872][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump3_Sprite9B468C1F4F08B269C88B44A6455CAD72.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump3_Sprite.uasset'
+[2020.12.19-13.22.20:889][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump413AEA691434AC28DC1078E85F8F3136B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump4.uasset'
+[2020.12.19-13.22.20:905][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump4_Sprite771C23A34E8730DF0190A49AEEE50325.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump4_Sprite.uasset'
+[2020.12.19-13.22.20:924][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump5D4D8CC8C4A6D1701CF2120B11065F8FE.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump5.uasset'
+[2020.12.19-13.22.20:940][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump5_SpriteE4BA3D2D42A2912A06D1C0A553CE73A8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump5_Sprite.uasset'
+[2020.12.19-13.22.20:958][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump62C792DB945B1A751A0561BA1A09E9092.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump6.uasset'
+[2020.12.19-13.22.20:974][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump6_Sprite327FBA7B47420F745F864E96101E8855.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump6_Sprite.uasset'
+[2020.12.19-13.22.20:991][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump71FBFDA0444A1D1CBA40B03B6A9E7F01E.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump7.uasset'
+[2020.12.19-13.22.21:006][ 97]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump7_Sprite6BA3DAB247D689097A380D9B1DBB6AC4.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump7_Sprite.uasset'
+[2020.12.19-13.22.21:129][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.19-13.22.21:136][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.22.21:141][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.19-13.22.21:146][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.21:152][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.22.21:157][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.21:163][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.22.21:168][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.22.21:173][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.22.21:178][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.21:184][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.21:189][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.21:195][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.22.21:200][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.21:212][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.12.19-13.22.21:218][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.22.21:249][ 97]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump7.Jump7
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump6.Jump6
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump5.Jump5
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump4.Jump4
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump3.Jump3
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump2.Jump2
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump1.Jump1
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump1_Sprite.Jump1_Sprite
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump2_Sprite.Jump2_Sprite
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump3_Sprite.Jump3_Sprite
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump4_Sprite.Jump4_Sprite
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump5_Sprite.Jump5_Sprite
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump6_Sprite.Jump6_Sprite
+[2020.12.19-13.22.21:249][ 97]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump7_Sprite.Jump7_Sprite
+[2020.12.19-13.22.34:819][837]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.22.47:272][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run1B01900144582CF396E682CB0985F587B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run1.uasset'
+[2020.12.19-13.22.47:292][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run10029583784304D443746DC59B0CD4B186.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run10.uasset'
+[2020.12.19-13.22.47:310][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run10_Sprite170888A048040854C9169DB5D8E12EAB.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run10_Sprite.uasset'
+[2020.12.19-13.22.47:326][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run1_SpriteEF3566504FF6FF4E61BC99BD887446CA.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run1_Sprite.uasset'
+[2020.12.19-13.22.47:344][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run21C21774C448AB1135D3822A9C85B04CA.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run2.uasset'
+[2020.12.19-13.22.47:360][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run2_SpriteF9E731414F579E5B08F2979D9DABC429.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run2_Sprite.uasset'
+[2020.12.19-13.22.47:378][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run3A915FF4B4DB6AA9A9727DCAAA28C4FBD.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run3.uasset'
+[2020.12.19-13.22.47:395][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run3_Sprite4364794C4F1ABA4D691F4EBBCEF1D245.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run3_Sprite.uasset'
+[2020.12.19-13.22.47:721][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run4DA9BB7E94F96CABC3576C9A750C70B06.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run4.uasset'
+[2020.12.19-13.22.47:737][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run4_Sprite5E2288E449809713965940BE6FC67FF8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run4_Sprite.uasset'
+[2020.12.19-13.22.47:756][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run55EE636454CB8E53C16F721AB21FC45D8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run5.uasset'
+[2020.12.19-13.22.47:772][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run5_SpriteDED6A4974F0DDCDA0AC5C5A730381732.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run5_Sprite.uasset'
+[2020.12.19-13.22.47:792][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run68A4A8A4A4CB61BB03B099AA3BD4D0CA5.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run6.uasset'
+[2020.12.19-13.22.47:809][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run6_Sprite9D688CBE42E9E30C3C2061B97BF5F311.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run6_Sprite.uasset'
+[2020.12.19-13.22.47:830][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run7D7E9BB424A4A59E6899158A56BE214A6.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run7.uasset'
+[2020.12.19-13.22.47:847][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run7_Sprite8AADED444CDA2335A132E88E40C3CC3E.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run7_Sprite.uasset'
+[2020.12.19-13.22.47:867][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run8B13394B046FB4174506FBE9D2ED6B75F.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run8.uasset'
+[2020.12.19-13.22.47:887][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run8_Sprite75CFC6314AD86668AC981BBF4B8BD771.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run8_Sprite.uasset'
+[2020.12.19-13.22.47:905][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run9CB3DEC1844CD574969A914B246B8F094.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run9.uasset'
+[2020.12.19-13.22.47:922][545]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run9_SpriteA132B87A4D92BD85D8AF39BF4EB4961F.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run9_Sprite.uasset'
+[2020.12.19-13.22.48:062][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.12.19-13.22.48:068][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.19-13.22.48:074][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.22.48:079][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.48:085][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.48:090][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.22.48:096][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.22.48:101][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.22.48:106][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.22.48:112][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.48:117][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.22.48:123][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.22.48:128][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.48:134][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.22.48:139][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.22.48:145][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.22.48:150][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.48:155][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.48:161][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.22.48:166][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.22.48:178][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.19-13.22.48:183][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2020.12.19-13.22.48:217][545]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run2.Run2
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run1.Run1
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run3.Run3
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run4.Run4
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run5.Run5
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run6.Run6
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run7.Run7
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run8.Run8
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run9.Run9
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run10.Run10
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run1_Sprite.Run1_Sprite
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run10_Sprite.Run10_Sprite
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run2_Sprite.Run2_Sprite
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run3_Sprite.Run3_Sprite
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run4_Sprite.Run4_Sprite
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run5_Sprite.Run5_Sprite
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run6_Sprite.Run6_Sprite
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run7_Sprite.Run7_Sprite
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run8_Sprite.Run8_Sprite
+[2020.12.19-13.22.48:217][545]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run9_Sprite.Run9_Sprite
+[2020.12.19-13.22.57:175][ 47]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.23.07:015][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk18D9749B94A3F3AE473CEA9A8A5C9A395.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk1.uasset'
+[2020.12.19-13.23.07:035][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk1_Sprite49053A8C4D226A70BE09FDB59C8CAA42.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk1_Sprite.uasset'
+[2020.12.19-13.23.07:053][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk20D45629B4159C474112B1B885B9B1D11.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk2.uasset'
+[2020.12.19-13.23.07:070][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk2_Sprite312B0981400CB84E7DD7ED99AA77F1B2.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk2_Sprite.uasset'
+[2020.12.19-13.23.07:086][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk30561748341D5259938C991B5BC3EADE7.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk3.uasset'
+[2020.12.19-13.23.07:103][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk3_Sprite02E596514BF3506860D3408D195FE293.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk3_Sprite.uasset'
+[2020.12.19-13.23.07:120][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk4D034B0FA41A0E469549F3ABC971DC333.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk4.uasset'
+[2020.12.19-13.23.07:137][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk4_Sprite642F9042466B819D8E614E88B5BF1A80.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk4_Sprite.uasset'
+[2020.12.19-13.23.07:154][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk5BCF7808849EAC897204123B1F74D3D21.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk5.uasset'
+[2020.12.19-13.23.07:171][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk5_Sprite62C162EE47159D859E9807A5D6DFE35B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk5_Sprite.uasset'
+[2020.12.19-13.23.07:190][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk6C19F0F8440A5F235749C808FEFE5EBF6.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk6.uasset'
+[2020.12.19-13.23.07:207][611]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk6_Sprite4F5A0AEA41D7397FC79C80A8EC002846.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk6_Sprite.uasset'
+[2020.12.19-13.23.07:328][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.19-13.23.07:335][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.23.07:340][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.23.07:346][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.23.07:352][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.23.07:357][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.23.07:363][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.23.07:368][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.23.07:374][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.23.07:379][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.23.07:384][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.23.07:390][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.23.07:402][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.19-13.23.07:408][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.23.07:441][611]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk1.Walk1
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk2.Walk2
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk3.Walk3
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk4.Walk4
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk5.Walk5
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk6.Walk6
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk1_Sprite.Walk1_Sprite
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk2_Sprite.Walk2_Sprite
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk3_Sprite.Walk3_Sprite
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk4_Sprite.Walk4_Sprite
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk5_Sprite.Walk5_Sprite
+[2020.12.19-13.23.07:441][611]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk6_Sprite.Walk6_Sprite
+[2020.12.19-13.23.08:160][652]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/A_Run_right.A_Run_right
+[2020.12.19-13.23.12:039][862]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/A_Run_right23AD5508405DE2AC85669D80E8AB4A4F.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/A_Run_right.uasset'
+[2020.12.19-13.23.12:087][862]AssetCheck: New page: Asset Save: A_Run_right
+[2020.12.19-13.23.12:087][862]LogContentValidation: Display: Validating PaperFlipbook /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/A_Run_right.A_Run_right
+[2020.12.19-13.23.15:203][ 41]LogSlate: Window 'A_Run_right' being destroyed
+[2020.12.19-13.23.15:215][ 41]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-13.23.15:215][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-13.35.35:174][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack1_left.png)
+[2020.12.19-13.35.35:180][544]LogTexture: Display: Building textures: Attack1_left (BGRA8, 245X350)
+[2020.12.19-13.35.35:197][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack2_left.png)
+[2020.12.19-13.35.35:200][544]LogTexture: Display: Building textures: Attack2_left (BGRA8, 242X352)
+[2020.12.19-13.35.35:204][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack3_left.png)
+[2020.12.19-13.35.35:208][544]LogTexture: Display: Building textures: Attack3_left (BGRA8, 216X350)
+[2020.12.19-13.35.35:213][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack4_left.png)
+[2020.12.19-13.35.35:216][544]LogTexture: Display: Building textures: Attack4_left (AutoDXT, 216X332)
+[2020.12.19-13.35.35:257][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack5_left.png)
+[2020.12.19-13.35.35:260][544]LogTexture: Display: Building textures: Attack5_left (BGRA8, 228X330)
+[2020.12.19-13.35.35:265][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Attack6_left.png)
+[2020.12.19-13.35.35:268][544]LogTexture: Display: Building textures: Attack6_left (BGRA8, 188X353)
+[2020.12.19-13.35.35:273][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead1_left.png)
+[2020.12.19-13.35.35:276][544]LogTexture: Display: Building textures: Dead1_left (BGRA8, 177X354)
+[2020.12.19-13.35.35:280][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead2_left.png)
+[2020.12.19-13.35.35:283][544]LogTexture: Display: Building textures: Dead2_left (BGRA8, 223X341)
+[2020.12.19-13.35.35:288][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead3_left.png)
+[2020.12.19-13.35.35:292][544]LogTexture: Display: Building textures: Dead3_left (BGRA8, 307X317)
+[2020.12.19-13.35.35:297][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead4_left.png)
+[2020.12.19-13.35.35:300][544]LogTexture: Display: Building textures: Dead4_left (BGRA8, 374X256)
+[2020.12.19-13.35.35:306][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead5_left.png)
+[2020.12.19-13.35.35:309][544]LogTexture: Display: Building textures: Dead5_left (BGRA8, 358X232)
+[2020.12.19-13.35.35:320][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead6_left.png)
+[2020.12.19-13.35.35:325][544]LogTexture: Display: Building textures: Dead6_left (BGRA8, 393X142)
+[2020.12.19-13.35.35:330][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead7_left.png)
+[2020.12.19-13.35.35:334][544]LogTexture: Display: Building textures: Dead7_left (BGRA8, 432X147)
+[2020.12.19-13.35.35:338][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Dead8_left.png)
+[2020.12.19-13.35.35:341][544]LogTexture: Display: Building textures: Dead8_left (BGRA8, 447X160)
+[2020.12.19-13.35.35:346][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt1_left.png)
+[2020.12.19-13.35.35:349][544]LogTexture: Display: Building textures: Hurt1_left (BGRA8, 167X368)
+[2020.12.19-13.35.35:354][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt2_left.png)
+[2020.12.19-13.35.35:357][544]LogTexture: Display: Building textures: Hurt2_left (BGRA8, 180X363)
+[2020.12.19-13.35.35:364][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt3_left.png)
+[2020.12.19-13.35.35:368][544]LogTexture: Display: Building textures: Hurt3_left (BGRA8, 222X308)
+[2020.12.19-13.35.35:376][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt4_left.png)
+[2020.12.19-13.35.35:380][544]LogTexture: Display: Building textures: Hurt4_left (BGRA8, 223X314)
+[2020.12.19-13.35.35:384][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Hurt5_left.png)
+[2020.12.19-13.35.35:387][544]LogTexture: Display: Building textures: Hurt5_left (BGRA8, 171X359)
+[2020.12.19-13.35.35:392][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Idle1_left.png)
+[2020.12.19-13.35.35:396][544]LogTexture: Display: Building textures: Idle1_left (BGRA8, 206X364)
+[2020.12.19-13.35.35:400][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Idle2_left.png)
+[2020.12.19-13.35.35:403][544]LogTexture: Display: Building textures: Idle2_left (BGRA8, 209X363)
+[2020.12.19-13.35.35:407][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Idle3_left.png)
+[2020.12.19-13.35.35:410][544]LogTexture: Display: Building textures: Idle3_left (BGRA8, 215X364)
+[2020.12.19-13.35.35:415][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Idle4_left.png)
+[2020.12.19-13.35.35:418][544]LogTexture: Display: Building textures: Idle4_left (BGRA8, 219X366)
+[2020.12.19-13.35.35:423][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump1_left.png)
+[2020.12.19-13.35.35:426][544]LogTexture: Display: Building textures: Jump1_left (BGRA8, 174X355)
+[2020.12.19-13.35.35:431][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump2_left.png)
+[2020.12.19-13.35.35:434][544]LogTexture: Display: Building textures: Jump2_left (BGRA8, 206X292)
+[2020.12.19-13.35.35:438][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump3_left.png)
+[2020.12.19-13.35.35:441][544]LogTexture: Display: Building textures: Jump3_left (BGRA8, 195X396)
+[2020.12.19-13.35.35:445][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump4_left.png)
+[2020.12.19-13.35.35:449][544]LogTexture: Display: Building textures: Jump4_left (BGRA8, 205X394)
+[2020.12.19-13.35.35:453][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump5_left.png)
+[2020.12.19-13.35.35:456][544]LogTexture: Display: Building textures: Jump5_left (BGRA8, 189X431)
+[2020.12.19-13.35.35:462][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump6_left.png)
+[2020.12.19-13.35.35:465][544]LogTexture: Display: Building textures: Jump6_left (BGRA8, 175X369)
+[2020.12.19-13.35.35:470][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Jump7_left.png)
+[2020.12.19-13.35.35:473][544]LogTexture: Display: Building textures: Jump7_left (BGRA8, 184X345)
+[2020.12.19-13.35.35:477][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run1_left.png)
+[2020.12.19-13.35.35:480][544]LogTexture: Display: Building textures: Run1_left (BGRA8, 162X365)
+[2020.12.19-13.35.35:484][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run2_left.png)
+[2020.12.19-13.35.35:487][544]LogTexture: Display: Building textures: Run2_left (BGRA8, 204X369)
+[2020.12.19-13.35.35:492][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run3_left.png)
+[2020.12.19-13.35.35:495][544]LogTexture: Display: Building textures: Run3_left (BGRA8, 220X358)
+[2020.12.19-13.35.35:500][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run4_left.png)
+[2020.12.19-13.35.35:503][544]LogTexture: Display: Building textures: Run4_left (BGRA8, 238X358)
+[2020.12.19-13.35.35:508][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run5_left.png)
+[2020.12.19-13.35.35:511][544]LogTexture: Display: Building textures: Run5_left (BGRA8, 235X363)
+[2020.12.19-13.35.35:515][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run6_left.png)
+[2020.12.19-13.35.35:519][544]LogTexture: Display: Building textures: Run6_left (BGRA8, 296X367)
+[2020.12.19-13.35.35:524][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run7_left.png)
+[2020.12.19-13.35.35:528][544]LogTexture: Display: Building textures: Run7_left (BGRA8, 333X360)
+[2020.12.19-13.35.35:534][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run8_left.png)
+[2020.12.19-13.35.35:537][544]LogTexture: Display: Building textures: Run8_left (BGRA8, 294X329)
+[2020.12.19-13.35.35:541][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run9_left.png)
+[2020.12.19-13.35.35:544][544]LogTexture: Display: Building textures: Run9_left (BGRA8, 246X366)
+[2020.12.19-13.35.35:549][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Run10_left.png)
+[2020.12.19-13.35.35:553][544]LogTexture: Display: Building textures: Run10_left (BGRA8, 274X352)
+[2020.12.19-13.35.35:558][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk1_left.png)
+[2020.12.19-13.35.35:561][544]LogTexture: Display: Building textures: Walk1_left (BGRA8, 162X368)
+[2020.12.19-13.35.35:566][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk2_left.png)
+[2020.12.19-13.35.35:569][544]LogTexture: Display: Building textures: Walk2_left (BGRA8, 200X370)
+[2020.12.19-13.35.35:576][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk3_left.png)
+[2020.12.19-13.35.35:580][544]LogTexture: Display: Building textures: Walk3_left (BGRA8, 187X366)
+[2020.12.19-13.35.35:584][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk4_left.png)
+[2020.12.19-13.35.35:587][544]LogTexture: Display: Building textures: Walk4_left (BGRA8, 180X363)
+[2020.12.19-13.35.35:591][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk5_left.png)
+[2020.12.19-13.35.35:594][544]LogTexture: Display: Building textures: Walk5_left (BGRA8, 194X363)
+[2020.12.19-13.35.35:599][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\elena\OneDrive\Desktop\HTW\Semester 6\Game Engines\character\zombie\PNG\Zombie2\animation\Walk6_left.png)
+[2020.12.19-13.35.35:602][544]LogTexture: Display: Building textures: Walk6_left (BGRA8, 195X378)
+[2020.12.19-13.35.39:797][667]LogTexture: Display: Building textures: Attack4_left (BGRA8, 216X332)
+[2020.12.19-13.35.54:814][450]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.36.08:018][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack1_left3B7409254EC00B8663C72AAA1B50CC77.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack1_left.uasset'
+[2020.12.19-13.36.08:034][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack1_left_Sprite8F3719724D7687F9C213AF99B9C61F3E.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack1_left_Sprite.uasset'
+[2020.12.19-13.36.08:057][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack2_leftBAB333324AE36ACFACD0ACB4754C2C81.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack2_left.uasset'
+[2020.12.19-13.36.08:073][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack2_left_SpriteD7587B334BEADC5836941B93CEAF3B2A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack2_left_Sprite.uasset'
+[2020.12.19-13.36.08:091][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack3_leftF6B56BF54EA30039C923F999F94C95C3.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack3_left.uasset'
+[2020.12.19-13.36.08:106][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack3_left_Sprite8EF352B9421D7BCA551242A9C54D8BE1.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack3_left_Sprite.uasset'
+[2020.12.19-13.36.08:126][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack4_leftCDF43A724BD0389292C28B9DD9314273.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack4_left.uasset'
+[2020.12.19-13.36.08:142][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack4_left_SpriteD4CD872F446FA6CFBDABE490623A73BD.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack4_left_Sprite.uasset'
+[2020.12.19-13.36.08:160][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack5_left09B886504480635228760EBE8B20773A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack5_left.uasset'
+[2020.12.19-13.36.08:176][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack5_left_Sprite5ECA5807421FB69404D706859CEC8835.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack5_left_Sprite.uasset'
+[2020.12.19-13.36.08:193][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack6_left69AF7973432CF3927F4EDC95EA732460.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack6_left.uasset'
+[2020.12.19-13.36.08:209][191]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Attack6_left_Sprite21FB96D04A913C668E75738694818D9C.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack6_left_Sprite.uasset'
+[2020.12.19-13.36.08:341][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.12.19-13.36.08:348][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.19-13.36.08:354][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.08:360][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.08:366][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.08:372][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.36.08:378][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.08:383][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.08:388][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.08:394][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.08:399][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.08:405][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.08:417][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.19-13.36.08:423][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.08:458][191]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack5_left.Attack5_left
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack3_left.Attack3_left
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack6_left.Attack6_left
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack4_left.Attack4_left
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack2_left.Attack2_left
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack1_left.Attack1_left
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack1_left_Sprite.Attack1_left_Sprite
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack2_left_Sprite.Attack2_left_Sprite
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack3_left_Sprite.Attack3_left_Sprite
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack4_left_Sprite.Attack4_left_Sprite
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack5_left_Sprite.Attack5_left_Sprite
+[2020.12.19-13.36.08:458][191]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Attack6_left_Sprite.Attack6_left_Sprite
+[2020.12.19-13.36.18:470][728]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.36.31:060][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead1_left4145C6B549D408C52D4C148917F8269B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead1_left.uasset'
+[2020.12.19-13.36.31:077][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead1_left_SpriteE97DA9C646F3D7012627FF92EDC501EF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead1_left_Sprite.uasset'
+[2020.12.19-13.36.31:099][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead2_left2895CDE34FE23F42C34573AA7CDAA233.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead2_left.uasset'
+[2020.12.19-13.36.31:116][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead2_left_Sprite1121F10E4F864C95D3DAF7862D656BBA.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead2_left_Sprite.uasset'
+[2020.12.19-13.36.31:138][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead3_left8B5E76E44DA84E509EE442AF1C7F38D5.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead3_left.uasset'
+[2020.12.19-13.36.31:154][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead3_left_SpriteC48B33A1486903B25BE03EAADDFDC637.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead3_left_Sprite.uasset'
+[2020.12.19-13.36.31:173][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead4_left7F24F3D94874236656420A81DCB146B0.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead4_left.uasset'
+[2020.12.19-13.36.31:189][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead4_left_SpriteAE31D0B24E3EFB29BED5908ACCB58746.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead4_left_Sprite.uasset'
+[2020.12.19-13.36.31:208][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead5_leftBEE5E95546EBAFE597BB4CA587871BD3.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead5_left.uasset'
+[2020.12.19-13.36.31:225][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead5_left_Sprite38BE796944725EFB607FFEA4E64DC7A3.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead5_left_Sprite.uasset'
+[2020.12.19-13.36.31:241][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead6_left77CD940647D3023BF290B2891D7A69BD.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead6_left.uasset'
+[2020.12.19-13.36.31:256][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead6_left_Sprite25FBF6B641D602C391E55F9D32041B2B.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead6_left_Sprite.uasset'
+[2020.12.19-13.36.31:272][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead7_leftB3C389884E6DADCF4596E0BBE42366A6.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead7_left.uasset'
+[2020.12.19-13.36.31:288][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead7_left_Sprite4CDC8D1E4EA16E79D63A909935A20F69.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead7_left_Sprite.uasset'
+[2020.12.19-13.36.31:304][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead8_leftD124EC324563D0449F0548BE11590F64.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead8_left.uasset'
+[2020.12.19-13.36.31:319][434]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Dead8_left_Sprite8A4C2ECF46E91C41EE8BD59C9E1E3F26.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead8_left_Sprite.uasset'
+[2020.12.19-13.36.31:440][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.12.19-13.36.31:447][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.19-13.36.31:454][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.12.19-13.36.31:459][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:464][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:469][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:474][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:480][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.31:485][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.31:490][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:496][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:501][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:507][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:512][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.31:518][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:523][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.31:535][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.19-13.36.31:540][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.19-13.36.31:570][434]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead8_left.Dead8_left
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead7_left.Dead7_left
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead6_left.Dead6_left
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead5_left.Dead5_left
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead4_left.Dead4_left
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead3_left.Dead3_left
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead2_left.Dead2_left
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead1_left.Dead1_left
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead1_left_Sprite.Dead1_left_Sprite
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead2_left_Sprite.Dead2_left_Sprite
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead3_left_Sprite.Dead3_left_Sprite
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead4_left_Sprite.Dead4_left_Sprite
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead5_left_Sprite.Dead5_left_Sprite
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead6_left_Sprite.Dead6_left_Sprite
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead7_left_Sprite.Dead7_left_Sprite
+[2020.12.19-13.36.31:570][434]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Dead8_left_Sprite.Dead8_left_Sprite
+[2020.12.19-13.36.39:449][848]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.36.51:122][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt1_left80F82EB043FB9F8F51F1AF96265E6602.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt1_left.uasset'
+[2020.12.19-13.36.51:138][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt1_left_Sprite1BF69FF44D99A00DFC01C0BDBF89EC95.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt1_left_Sprite.uasset'
+[2020.12.19-13.36.51:250][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt2_leftB79ECA234934AE5E0283FEBDB8FCC610.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt2_left.uasset'
+[2020.12.19-13.36.51:268][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt2_left_SpriteA891C8134F4F665911CEBF822D985D08.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt2_left_Sprite.uasset'
+[2020.12.19-13.36.51:287][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt3_left05539FFE4CC7C87164371186E4B0D42C.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt3_left.uasset'
+[2020.12.19-13.36.51:304][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt3_left_SpriteFC6B1AF143654B8B3C57F7A88C03DC4D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt3_left_Sprite.uasset'
+[2020.12.19-13.36.51:322][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt4_leftE8B31F964799F511B4D3B098277C778F.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt4_left.uasset'
+[2020.12.19-13.36.51:340][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt4_left_SpriteC66C194F43CA5C0C714F9A9121D58E04.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt4_left_Sprite.uasset'
+[2020.12.19-13.36.51:357][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt5_left0724622948DEE93984EAE795BE59E7AD.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt5_left.uasset'
+[2020.12.19-13.36.51:373][480]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Hurt5_left_SpriteDE3384AA4B0FD96FDA811FBB50F986CE.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt5_left_Sprite.uasset'
+[2020.12.19-13.36.51:485][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.19-13.36.51:491][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.12.19-13.36.51:497][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.51:502][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.51:508][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.51:513][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.19-13.36.51:518][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.51:524][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.36.51:529][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.51:535][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.36.51:547][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.12.19-13.36.51:553][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.36.51:586][480]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt5_left.Hurt5_left
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt4_left.Hurt4_left
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt3_left.Hurt3_left
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt2_left.Hurt2_left
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt1_left.Hurt1_left
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt1_left_Sprite.Hurt1_left_Sprite
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt2_left_Sprite.Hurt2_left_Sprite
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt3_left_Sprite.Hurt3_left_Sprite
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt4_left_Sprite.Hurt4_left_Sprite
+[2020.12.19-13.36.51:586][480]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Hurt5_left_Sprite.Hurt5_left_Sprite
+[2020.12.19-13.37.01:541][  9]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.37.08:932][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.19-13.37.09:085][442]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Level_00A52DB01745FDC28FD1B406AFA94A4673.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Maps/Level_00.umap'
+[2020.12.19-13.37.09:134][442]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Level_00_BuiltData3B140C2445203E3B94EADAAF645B72CB.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Maps/Level_00_BuiltData.uasset'
+[2020.12.19-13.37.09:146][442]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.37.09:147][442]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TheGreatEscape/Maps/Level_00_BuiltData.Level_00_BuiltData
+[2020.12.19-13.37.09:147][442]LogContentValidation: Display: Validating World /Game/TheGreatEscape/Maps/Level_00.Level_00
+[2020.12.19-13.37.16:254][834]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle1_left14426AEA4CD5DE8C15025C8A1470A433.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle1_left.uasset'
+[2020.12.19-13.37.16:270][834]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle1_left_Sprite4E3E3CB84D3B84F6FBD1A99E4DBAF114.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle1_left_Sprite.uasset'
+[2020.12.19-13.37.16:288][834]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle2_leftC56185174D0BE21A6C5B41AF4B6BA607.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle2_left.uasset'
+[2020.12.19-13.37.16:303][834]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle2_left_Sprite7A58761A479F14C8FAB390A3674AA07C.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle2_left_Sprite.uasset'
+[2020.12.19-13.37.16:322][834]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle3_leftC8BD0CDC434897B2C7DEE8A9F063D345.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle3_left.uasset'
+[2020.12.19-13.37.16:338][834]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle3_left_Sprite9DD045B84328D8F9E86C999F2921A4F2.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle3_left_Sprite.uasset'
+[2020.12.19-13.37.16:356][834]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle4_left104B96E54C6BB11BFCED1EAA66CE46F5.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle4_left.uasset'
+[2020.12.19-13.37.16:373][834]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Idle4_left_Sprite6DA291D74D0942225A4406B85D8937CF.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle4_left_Sprite.uasset'
+[2020.12.19-13.37.16:457][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.12.19-13.37.16:463][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.12.19-13.37.16:472][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.37.16:478][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.19-13.37.16:484][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.19-13.37.16:490][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.19-13.37.16:495][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.19-13.37.16:501][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.37.16:515][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.19-13.37.16:520][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.12.19-13.37.16:555][834]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.37.16:555][834]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle1_left.Idle1_left
+[2020.12.19-13.37.16:555][834]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle2_left.Idle2_left
+[2020.12.19-13.37.16:555][834]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle3_left.Idle3_left
+[2020.12.19-13.37.16:555][834]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle4_left.Idle4_left
+[2020.12.19-13.37.16:555][834]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle1_left_Sprite.Idle1_left_Sprite
+[2020.12.19-13.37.16:556][834]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle2_left_Sprite.Idle2_left_Sprite
+[2020.12.19-13.37.16:556][834]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle3_left_Sprite.Idle3_left_Sprite
+[2020.12.19-13.37.16:556][834]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Idle4_left_Sprite.Idle4_left_Sprite
+[2020.12.19-13.37.26:597][356]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.37.40:655][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump1_left4DC2037841C749727A7D75A2284617EA.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump1_left.uasset'
+[2020.12.19-13.37.40:689][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump1_left_SpriteF7894FD847790DF6DE266A92FEE64BD2.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump1_left_Sprite.uasset'
+[2020.12.19-13.37.40:707][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump2_left29A0FDB94BB06DF201C58FABD86ECBF8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump2_left.uasset'
+[2020.12.19-13.37.40:723][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump2_left_Sprite87AD1ECD4AB2FAEF2E3BA8A1A0E6FA02.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump2_left_Sprite.uasset'
+[2020.12.19-13.37.40:740][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump3_left66EEF6C64B9B91FFD3AE17AAF86B5A48.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump3_left.uasset'
+[2020.12.19-13.37.40:756][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump3_left_Sprite1F4CC10E436B6BB03F0ED2A15A9D1D1E.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump3_left_Sprite.uasset'
+[2020.12.19-13.37.40:773][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump4_leftEE3C00E3414A417B25339A97927631E0.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump4_left.uasset'
+[2020.12.19-13.37.40:789][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump4_left_SpriteEF3A7C82476333F1A3DE91AE378557CD.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump4_left_Sprite.uasset'
+[2020.12.19-13.37.40:809][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump5_leftAB4369554BD9464E1522D99089ACFBF7.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump5_left.uasset'
+[2020.12.19-13.37.40:828][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump5_left_SpriteFCFE2866449CEF30FEA0288A095217EE.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump5_left_Sprite.uasset'
+[2020.12.19-13.37.40:845][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump6_left828B046648EAA63365341CA7FB7A4F6C.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump6_left.uasset'
+[2020.12.19-13.37.40:861][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump6_left_Sprite16A1F5CC4C4FFFAE1D85A3AE8C67D323.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump6_left_Sprite.uasset'
+[2020.12.19-13.37.40:878][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump7_left2FC3CB00485832A91C5475ADF087D710.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump7_left.uasset'
+[2020.12.19-13.37.41:026][151]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Jump7_left_Sprite4222CB6B43E709710BA172B2A170590D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump7_left_Sprite.uasset'
+[2020.12.19-13.37.41:174][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.12.19-13.37.41:182][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.12.19-13.37.41:188][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.12.19-13.37.41:194][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.37.41:200][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.37.41:206][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.12.19-13.37.41:211][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.37.41:217][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.37.41:222][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.37.41:227][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.37.41:232][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.37.41:238][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.37.41:244][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.37.41:249][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.37.41:262][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.19-13.37.41:267][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.37.41:301][151]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump1_left.Jump1_left
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump2_left.Jump2_left
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump3_left.Jump3_left
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump4_left.Jump4_left
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump5_left.Jump5_left
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump6_left.Jump6_left
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump7_left.Jump7_left
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump1_left_Sprite.Jump1_left_Sprite
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump2_left_Sprite.Jump2_left_Sprite
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump3_left_Sprite.Jump3_left_Sprite
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump4_left_Sprite.Jump4_left_Sprite
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump5_left_Sprite.Jump5_left_Sprite
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump6_left_Sprite.Jump6_left_Sprite
+[2020.12.19-13.37.41:301][151]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Jump7_left_Sprite.Jump7_left_Sprite
+[2020.12.19-13.37.53:571][795]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.38.04:881][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run10_left96D71A9F470141250636BFA164E11639.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run10_left.uasset'
+[2020.12.19-13.38.04:903][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run10_left_Sprite9B755ECB4F237E98BF620A9F10C6300D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run10_left_Sprite.uasset'
+[2020.12.19-13.38.04:920][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run1_leftEE63A73145F343D0A0AC34A111D8F01A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run1_left.uasset'
+[2020.12.19-13.38.04:937][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run1_left_Sprite4745480745E401D26E3BF7A3327D541D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run1_left_Sprite.uasset'
+[2020.12.19-13.38.04:957][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run2_leftED69389C4C12596ED8BBE3B656044064.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run2_left.uasset'
+[2020.12.19-13.38.04:974][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run2_left_Sprite67CA60BD4ECFC0A48FF938912DD13B20.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run2_left_Sprite.uasset'
+[2020.12.19-13.38.04:992][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run3_leftAB1309E243C84DAEA2FE09A38319A8F6.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run3_left.uasset'
+[2020.12.19-13.38.05:010][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run3_left_SpriteF1B98E7A450CBFE2E7DE8C9CE79BE5D9.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run3_left_Sprite.uasset'
+[2020.12.19-13.38.05:028][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run4_left3D09FBC54759CD1CBA568E8D252C1E68.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run4_left.uasset'
+[2020.12.19-13.38.05:046][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run4_left_Sprite5208A0BB432FCD2E6EB13580881748B0.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run4_left_Sprite.uasset'
+[2020.12.19-13.38.05:065][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run5_left5572B20745305125854C09BCCD3F9F7A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run5_left.uasset'
+[2020.12.19-13.38.05:081][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run5_left_Sprite402106014638009ED2D874BB19FD3DA0.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run5_left_Sprite.uasset'
+[2020.12.19-13.38.05:101][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run6_left6EAAB2234750A8077AAF21BEC86C1EB8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run6_left.uasset'
+[2020.12.19-13.38.05:117][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run6_left_Sprite9DA54B204BAD4952B26727928522BCF8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run6_left_Sprite.uasset'
+[2020.12.19-13.38.05:138][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run7_left1526DFA84A75974F769DF4BC4E604260.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run7_left.uasset'
+[2020.12.19-13.38.05:153][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run7_left_Sprite378358594D5B90C1EDB1BCB15A42CC34.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run7_left_Sprite.uasset'
+[2020.12.19-13.38.05:174][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run8_left9F8A473B439B6960EC8899A82F3BA3AD.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run8_left.uasset'
+[2020.12.19-13.38.05:191][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run8_left_Sprite1BEF918C44B4ED28A9C978B376D90620.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run8_left_Sprite.uasset'
+[2020.12.19-13.38.05:253][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run9_left00897D344CCEA1339EE3D8AECC8C8666.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run9_left.uasset'
+[2020.12.19-13.38.05:272][418]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Run9_left_Sprite2ABA2EC64EDC80BEFDDC74B7CE382775.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run9_left_Sprite.uasset'
+[2020.12.19-13.38.05:407][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.19-13.38.05:413][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.19-13.38.05:419][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:424][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:429][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.38.05:435][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:440][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.05:446][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.05:451][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.05:456][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:462][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:467][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.05:473][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.05:478][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:484][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:489][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:494][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.05:500][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:505][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:510][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.05:523][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.19-13.38.05:528][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.38.05:558][418]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run1_left.Run1_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run2_left.Run2_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run3_left.Run3_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run4_left.Run4_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run5_left.Run5_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run6_left.Run6_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run7_left.Run7_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run8_left.Run8_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run9_left.Run9_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run10_left.Run10_left
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run10_left_Sprite.Run10_left_Sprite
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run1_left_Sprite.Run1_left_Sprite
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run2_left_Sprite.Run2_left_Sprite
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run3_left_Sprite.Run3_left_Sprite
+[2020.12.19-13.38.05:558][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run4_left_Sprite.Run4_left_Sprite
+[2020.12.19-13.38.05:559][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run5_left_Sprite.Run5_left_Sprite
+[2020.12.19-13.38.05:559][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run6_left_Sprite.Run6_left_Sprite
+[2020.12.19-13.38.05:559][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run7_left_Sprite.Run7_left_Sprite
+[2020.12.19-13.38.05:559][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run8_left_Sprite.Run8_left_Sprite
+[2020.12.19-13.38.05:559][418]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Run9_left_Sprite.Run9_left_Sprite
+[2020.12.19-13.38.11:684][750]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(745)].
+[2020.12.19-13.38.24:088][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk1_left8EF20DE1408E7F405E8EDDBBBCA6F430.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk1_left.uasset'
+[2020.12.19-13.38.24:104][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk1_left_Sprite3CB489104E6A06BF1E584491F70237D7.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk1_left_Sprite.uasset'
+[2020.12.19-13.38.24:122][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk2_leftDD13C4FB4BCCCC5487248F8BE05BF73D.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk2_left.uasset'
+[2020.12.19-13.38.24:136][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk2_left_SpriteF0E3FBE04BC91C2872519A8661F9594C.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk2_left_Sprite.uasset'
+[2020.12.19-13.38.24:154][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk3_leftD8C0FFAF4D5BA04AD14B799D5B0E15CC.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk3_left.uasset'
+[2020.12.19-13.38.24:174][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk3_left_Sprite0266A41B4E51125B0112EEB7847B1A38.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk3_left_Sprite.uasset'
+[2020.12.19-13.38.24:191][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk4_leftC7DB0CDB470375661AE7C4B8E922C341.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk4_left.uasset'
+[2020.12.19-13.38.24:207][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk4_left_SpriteC1CCD631463B9B277BC0C7A6A57EC1E8.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk4_left_Sprite.uasset'
+[2020.12.19-13.38.24:224][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk5_leftC31FB8164B634732A30A7C93A06AE22A.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk5_left.uasset'
+[2020.12.19-13.38.24:241][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk5_left_SpriteD65999D94793DD5E67F53599DA3FC676.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk5_left_Sprite.uasset'
+[2020.12.19-13.38.24:259][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk6_leftFB3F05694708CD1148D157B82DC03743.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk6_left.uasset'
+[2020.12.19-13.38.24:275][465]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Walk6_left_SpriteD352E1BD4782AD43BF7E438540771BF9.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk6_left_Sprite.uasset'
+[2020.12.19-13.38.24:385][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.19-13.38.24:392][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.38.24:397][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.24:403][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.24:410][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.24:416][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.38.24:422][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.19-13.38.24:427][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.24:433][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.12.19-13.38.24:439][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.12.19-13.38.24:444][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.24:450][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.12.19-13.38.24:462][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.12.19-13.38.24:468][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.12.19-13.38.24:500][465]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk1_left.Walk1_left
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk2_left.Walk2_left
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk3_left.Walk3_left
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk4_left.Walk4_left
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk5_left.Walk5_left
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating Texture2D /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk6_left.Walk6_left
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk1_left_Sprite.Walk1_left_Sprite
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk2_left_Sprite.Walk2_left_Sprite
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk3_left_Sprite.Walk3_left_Sprite
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk4_left_Sprite.Walk4_left_Sprite
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk5_left_Sprite.Walk5_left_Sprite
+[2020.12.19-13.38.24:501][465]LogContentValidation: Display: Validating PaperSprite /Game/TheGreatEscape/Sprites/Enemies/Zombie_2/sprites/Walk6_left_Sprite.Walk6_left_Sprite
+[2020.12.19-13.38.31:700][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.19-13.38.31:715][894]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Level_00F17911664F83760B2F646F95403ECFE9.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Maps/Level_00.umap'
+[2020.12.19-13.38.31:753][894]LogSavePackage: Moving '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Saved/Level_00_BuiltDataA24BBFA94882E0B1202C7C8607867414.tmp' to '../../../../../../Users/elena/OneDrive/Desktop/HTW/Semester 6/Game Engines/Unreal/UnrealGame/UnrealGame/Escape/Content/TheGreatEscape/Maps/Level_00_BuiltData.uasset'
+[2020.12.19-13.38.31:763][894]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-13.38.31:763][894]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TheGreatEscape/Maps/Level_00_BuiltData.Level_00_BuiltData
+[2020.12.19-13.38.31:763][894]LogContentValidation: Display: Validating World /Game/TheGreatEscape/Maps/Level_00.Level_00
