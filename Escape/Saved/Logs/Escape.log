@@ -6607,3 +6607,5 @@ Script Stack (0 frames):
 [2020.12.20-00.08.04:180][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/TheGreatEscape/Art/Texture/medikit]
 [2020.12.20-00.08.04:207][336]LogSavePackage: Moving '../../../../../../Unreal/UnrealGame/Escape/Saved/medikit_Auto8927F154F498EE923081D189707182E7D.tmp' to '../../../../../../Unreal/UnrealGame/Escape/Saved/Autosaves/Game/TheGreatEscape/Art/Texture/medikit_Auto8.uasset'
 [2020.12.20-00.08.04:213][336]LogFileHelpers: Auto-saving content packages took 0.033
+[2020.12.20-00.09.17:698][822]LogAnalytics: Warning: EventCache either took too long to flush (1.018 ms) or had a very large payload (0.437 KB, 1 events). Listing events in the payload for investigation:
+[2020.12.20-00.09.17:701][822]LogAnalytics: Warning:     Editor.Usage.Heartbeat,434
